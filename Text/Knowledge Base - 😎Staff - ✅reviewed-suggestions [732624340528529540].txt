@@ -1,0 +1,4435 @@
+==============================================================
+Guild: Knowledge Base
+Channel: 😎Staff / ✅reviewed-suggestions
+Topic: Reviewed Suggestions and staff replies
+==============================================================
+
+[14-Jul-20 10:44 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> https://discordapp.com/channels/648294947123888128/727904401917739089/732021316005396510
+> ```js
+> execute as @a unless score @s ID matches 1.. run <other potential commands>
+> execute as @a unless score @s ID matches 1.. store result score @s ID run scoreboard players add $New_ID ID 1```
+@TemmieOfficial
+
+
+[14-Jul-20 11:02 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> A downloadable Unicode RP template
+@asdru 
+Will be added to #deleted-channel when @foof🎄 turns into a download link
+
+
+[14-Jul-20 07:00 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> And when I was typing that previous message I notices that you spelled it "knowledgeble" instead of "knowledgeable" in the role names.
+@Mixtongent73 
+Fixed role names
+
+
+[15-Jul-20 09:24 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> could combine the voting and announcements channels
+@TheRedWaffles 
+Will take this to #👍polls-announcements
+
+
+[15-Jul-20 09:25 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Maybe a memes channel
+@Dapper 
+No.
+Not the purpose of this discord server.
+
+
+[15-Jul-20 09:31 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> combine #deleted-channel & #deleted-channel or rename #deleted-channel > datapack-tools
+@Zefyro 
+I've done so
+
+
+[15-Jul-20 10:34 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> tell good plugins for datapack for atom as well
+@L. Lawliet 
+Hosting a vote on that in #👍polls-announcements
+
+
+[15-Jul-20 10:37 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Combine #deleted-channel & #📜role-details
+@Pablo 
+I personally think it'd look cluttered,  and I want it to be clear to newcomers what to focus on. So no.
+
+
+[15-Jul-20 12:48 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> https://discordapp.com/channels/648294947123888128/732777253838127125/732777937580982293
+> **AEC** Area Effect Cloud
+@TemmieOfficial 
+Added it
+
+
+[16-Jul-20 03:47 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Keep #🎀showcase🥓advertising but remove #deleted-channel.
+@Pablo 
+I'm going to revise my vote for thsi
+
+
+[16-Jul-20 07:38 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Votes should last longer for people in other time zones.
+@Mixtongent73 
+A full 24 hours?
+I just wait until I'm satisfied with the number of people who've voted
+
+
+[16-Jul-20 07:38 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> This guys ^ suggestion ^ should not be approved
+@Dapper 
+I'll think about it
+
+
+[16-Jul-20 07:42 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Put this entity tag that is a list of all non living entities in #deleted-channel or somewhere
+@PsiGreen 
+> add this somewhere
+> contains `entity_types` folder with entities sorted to categories: `boss_mob` `hostile` `living` `neutral` `non_mob` `passive` `undead` `unused`
+@Zefyro 
+Use #community-resources (Yes I know that is basically a direct knock off of MCC but ah well)
+
+
+[16-Jul-20 08:39 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> delete #deleted-channel because #🐢welcome is like the same
+@KM127PL 
+yes
+
+
+[16-Jul-20 08:42 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add system messages to #💬general  and disable random welcome messages
+@Zefyro 
+Sounds good
+
+
+[16-Jul-20 08:45 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add third option to the latest vote: 
+> 3️⃣ wait 24 hours or 20+ votes
+> 
+> So the vote lasts max 24 hours.
+@Zefyro 
+Did it
+
+
+[17-Jul-20 12:18 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Also add this:
+> https://minecraft.gamepedia.com/Statistics#List_of_custom_statistic_names
+> its a list of the stats you can make scoreboards out of which can be nice
+@TheRedWaffles 
+> maybe this one instead but yea
+> https://minecraft.gamepedia.com/Statistics#Statistic_types_and_names
+@TheRedWaffles 
+> add this page:
+> https://minecraft.gamepedia.com/Attribute
+> to the resources channel
+> 
+> it contains info about all of the default mob's attributes
+@foof🎄 
+You can add it in #community-resources, since I can't think of anywhere else to put it
+
+
+[19-Jul-20 06:02 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add to #deleted-channel #deleted-channel , whatever: CommandHook - a very useful plugin that allows you to use vanilla selectors (@a, @e, etc.) with other plugins (only works in command blocks)
+@🌵BugFixer - MiniMinnow 
+I'll put it in #deleted-channel
+
+
+[25-Jul-20 07:50 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Can we get Wiggle Channel?
+@Ugandan 
+not the point of this server it only clutters things up more
+
+
+[26-Jul-20 08:19 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Rename #deleted-channel  to #other-servers so people don't get confused and think it's a place to ask directly for help
+@🌵BugFixer - MiniMinnow 
+we added a note
+
+
+[26-Jul-20 08:20 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> #deleted-channel should have the 🔧  emoji
+@IdaeChop 
+sure
+
+
+[02-Aug-20 01:35 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Yellow and a bit brighter yellow
+@🌵BugFixer - MiniMinnow 
+No, a `@Verified` is already yellow
+
+
+[02-Aug-20 01:39 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add 'Subscribe to MiniMinnow' in #deleted-channel with a spoiler (so technically they choose to be advertised on)
+@🌵BugFixer - MiniMinnow 
+No, and No they didn't choose to be advertised on
+
+
+[02-Aug-20 02:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> #deleted-channel spells carrot wrong. `i suggest to fix`
+@leafOswin 
+Thank you! I fixed it
+
+
+[02-Aug-20 03:18 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add @deleted-role role.
+@Zefyro 
+Already did, go to #deleted-channel (https://discordapp.com/channels/648294947123888128/728648580633591821/731159146325475429)
+
+
+[03-Aug-20 08:29 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Pink for wanting to be pinged, **HOT!** pink for not wanting to be pinged
+@Dapper 
+:no:
+
+
+[04-Aug-20 12:21 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> In #deleted-channel you could put in the fact thaat lots of people use ` @s ` to try and select the player who activated it whereas the command block can't do that
+@🌵BugFixer - MiniMinnow 
+Sure adding that now
+
+
+[04-Aug-20 04:14 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Maybe add a no NSFW content to the rules
+@Dapper 
+Could've sworn that was already in #deleted-channel, apparently not.
+Will do!
+
+
+[04-Aug-20 04:15 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@Dapper It already does actually
+> • Rule 5 also covers NSFW content, DO NOT post NSFW content
+(In the Clarificatiosn section)
+
+
+[04-Aug-20 04:16 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add these 2 to #deleted-channel plugins.
+> 
+> Better theme(s) for vscode
+> https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme
+> Adds file icons
+> https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+@Zefyro 
+Sure
+
+{Embed}
+https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme
+Material Theme - Visual Studio Marketplace
+Extension for Visual Studio Code - The most epic theme now for Visual Studio Code
+Knowledge Base - 😎Staff - ✅reviewed-suggestions [732624340528529540].txt_Files\Microsoft.VisualStudio.Services.Icons-7F96F.Default
+
+{Embed}
+https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+Material Icon Theme - Visual Studio Marketplace
+Extension for Visual Studio Code - Material Design Icons for Visual Studio Code
+Knowledge Base - 😎Staff - ✅reviewed-suggestions [732624340528529540].txt_Files\Microsoft.VisualStudio.Services.Icons-E6C21.Default
+
+
+[04-Aug-20 04:23 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add a NSFW channel
+@Dapper 
+No, mainly because it will clutter up the server unnecesarilly and I want to keep the chnanels down as much as possible.
+
+
+[04-Aug-20 04:23 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> this suggestion cannot be denied
+This has been approved ^
+
+
+[04-Aug-20 04:29 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> **Combine the plugin help and regular help channel!**
+@Dapper 
+No, don't feel like explaining rn
+
+
+[04-Aug-20 05:01 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> **Make ME admin!** `This suggestion cannot be denied`
+@Dapper 
+fine
+
+
+[04-Aug-20 05:01 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> make me admin
+> thats really it, have a nice day
+@leafOswin 
+ok
+
+
+[04-Aug-20 06:31 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make Me Admin
+> deny or don’t deny or do you opposite of the next message about this message
+@epicgamer256705 
+I understood 3 words, and no to the 3 words I understood
+Maybe you'll get Helper/Moderator if the vote wins
+
+
+[06-Aug-20 08:14 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add my bot
+@L. Lawliet 
+I assume you mean the TF one for openning/closing help channels, for now I won't but maybe if the server grows to the point where we need that I will
+
+
+[07-Aug-20 11:21 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> `m!forcemarry` give that to your mods
+@Dapper 
+Marriage bot is gone and pretty sure I can't edit Marriage bot like that anyways
+
+
+[07-Aug-20 11:24 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Green for wanting to be pinged & red for not wanting to be pinged.
+@Zefyro 
+Went with this idea
+
+
+[07-Aug-20 11:24 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Purple for yes ping, Pink for no ping.
+@Mixtongent73 
+Used Zefyro's idea instead
+
+
+[07-Aug-20 11:25 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Haven't suggested recently so....
+> 
+> Link VanillaTweaks.net as they do cool datapacks (like weird shaped portals) and useful texture packs (like marked note blocks)
+@🌵BugFixer - MiniMinnow 
+Yes, they do make cool and useful stuff but where would I put it?
+
+
+[07-Aug-20 01:01 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest this Notepad++ plugin: https://sourceforge.net/projects/npp-plugins/files/AutoSave/
+@MMK21Games 
+Added
+
+
+[07-Aug-20 07:56 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> want to apply for admin
+@L. Lawliet 
+k
+
+
+[07-Aug-20 08:08 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> make moderator and admin serperately displayed from other
+> and make admin colour a little different from command knowledgeable
+@L. Lawliet 
+The first one I'll hold a poll for, the second one is already there.
+You can see that in TemmieOfficial's color
+
+
+[08-Aug-20 02:39 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Could i apply for moderator somewhere?
+@UgandanKnuckles 
+Ye, #deleted-channel.
+Also sure I'll make you moderator
+
+{Reactions}
+😄 pogChomp 
+
+[08-Aug-20 01:37 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make @🌵BugFixer - MiniMinnow a moderator
+@🌵BugFixer - MiniMinnow 
+You'll be staff for now lol
+
+{Reactions}
+👍 
+
+[08-Aug-20 01:51 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make me founder, admin, mod & staff.
+@Zefyro 
+I'll consider it
+
+
+[09-Aug-20 06:43 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make me non
+@Artistic 
+non what?
+
+
+[09-Aug-20 06:45 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Maybe do so staff can actually talk in #💬staff-chat
+@UgandanKnuckles 
+Working on it
+
+
+[09-Aug-20 06:45 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 🤔
+> https://cdn.discordapp.com/attachments/728700064381534230/741976310594797708/Screenshot_20200809-120846.png
+@MMK21Games
+
+{Embed}
+https://cdn.discordapp.com/attachments/728700064381534230/741976310594797708/Screenshot_20200809-120846.png
+https://cdn.discordapp.com/attachments/728700064381534230/741976310594797708/Screenshot_20200809-120846.png
+
+
+[09-Aug-20 06:46 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+I don't believe I can do anything about that
+
+
+[10-Aug-20 04:59 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Change the description of the !wolframalpha command in #🤖bot-commands (it does math very well)
+@Pablo 
+Done
+
+
+[10-Aug-20 05:01 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add this server to #deleted-channel: <https://discord.gg/gqApZRX> It's for sharing datapacks and giving smaller DP creators some exposure
+@Edaz 
+Will do!
+
+
+[11-Aug-20 11:32 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+
+{Attachments}
+Knowledge Base - 😎Staff - ✅reviewed-suggestions [732624340528529540].txt_Files\unknown-04E34.png
+
+
+[11-Aug-20 11:32 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+Will add
+
+
+[12-Aug-20 09:27 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ``Make me president``
+@Exor_Sk_2006 
+no
+
+
+[12-Aug-20 09:28 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Invite NotSoBot.
+> (Brought to you by Urban Dictionary)
+> `A Shit Bot you can download in Discord Servers that can do lots of rad stuff to do
+> And has lots of commands
+> 
+> "hey download Notsobot to the server!"
+> "no."
+> 
+> by SuperDude72 
+> May 19, 2018`
+@Emer2ld 
+probably not
+
+
+[12-Aug-20 09:37 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> You can't complain when you reacted 4️⃣ yourself
+@MMK21Games 
+Not a suggestion but ok
+
+{Reactions}
+🤔 
+
+[12-Aug-20 09:38 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ~~Why not add a 30 second slowmode to this channel?~~
+@MMK21Games 
+Already there lol
+
+{Reactions}
+🤦 
+
+[12-Aug-20 08:22 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> https://atom.io/packages/mcfunction-novum
+> McFunction language support package for Atom
+> add to #deleted-channel?
+@Vladilima 
+sure
+
+
+[12-Aug-20 08:23 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> for #deleted-channel 
+> Users of Sublime Text 3 can install the `language-mcfunction` package to help with their syntax etc.
+@elidhan 
+Link pls
+
+
+[12-Aug-20 08:24 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ``Invite my economy bot, ExoBotV2.0.``
+> ``Name will change in future probably``
+> Well i wanr to learn js finnaly so the bot might be replaced in future
+@Exor_Sk_2006 
+Tell me what "economy" means in this context, and also probably not
+
+
+[12-Aug-20 08:37 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> https://marketplace.visualstudio.com/items?itemName=arcensoth.language-mcfunction
+> There's support for both VScode and Sublime Text
+@elidhan k
+
+
+[12-Aug-20 08:37 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Package control is needed to be installed for Sublime for this
+@elidhan 
+Will note that
+
+
+[13-Aug-20 01:40 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add in Dyno bot so we can all do ?dadjoke and make people cringe, maybe you could disable all the other features apart from dadjoke
+@🌵BugFixer - MiniMinnow 
+> not the topic for the server
+@L. Lawliet 
+I might consider it, but like L. Lawliet said not the topic of the server.
+
+although it couldn't do much harm could it 🤔
+
+
+[14-Aug-20 06:57 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Maybe add a #deleted-channel of /tp & /teleport idk.
+@Pablo 
+I never knew `/teleport` existed, and I don't think there's any differrence other than `tp` being shorter than `teleport`
+
+
+[14-Aug-20 06:58 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Change the number of allowed Digits for CMD in #deleted-channel "Some things to remember when making a resource pack:" from 6 to 8, cause CustomModelData allows up to 8 digits.
+@Valaron/Jakob 
+fixed it
+
+{Reactions}
+👍 
+
+[15-Aug-20 08:59 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+Change the watermark from `﻿(Copy and Paste Extract from Knowledge Base https://discord.gg/QZK4vvn )﻿`
+to `﻿[Copy-paste from Knowledge Base: <discord.gg/QZK4vvn>]﻿` because the invite embed is too intrusive.
+﻿@MMK21Games 
+Soudns good to me
+
+
+[15-Aug-20 09:00 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Rename #showcase to #showcase–channel to make it clear that it's a channel /s
+@MMK21Games 
+But it's already named #🎀showcase🥓advertising or am I missing something?
+
+
+[17-Aug-20 12:40 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Allow us to see #deleted-channel and #community-resources.
+@Pablo 
+Thank you for reporting the bug, I'll try to fix it
+
+
+[17-Aug-20 08:10 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Maybe a bot specifically for this server? (no I'm not asking to make it) (ok maybe I am lol)
+@Splatboy Dev 
+I might look into this. It would be more reliable (Asuming it's hosted on something good) and could be easier. At the very least it would be nice to have a bot command to allow Mods+ to easily send people to the Gulag
+
+
+[18-Aug-20 07:16 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> When you post in #👍polls-announcements do it via a Carl command and make Carl add the reactions for numbers (or maybe the owner rank thing) so other people can't add reactions to votes
+@🌵BugFixer - MiniMinnow 
+I COULD do that, but I don't want to. I also COULD remove "add reactions" but I already hosted a vote on that
+
+{Reactions}
+👨‍🍳 
+
+[18-Aug-20 07:16 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Time to update #💙blue-faq
+@MMK21Games 
+Which part?
+
+{Reactions}
+🥖 
+
+[18-Aug-20 07:19 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add some small minigame bots and make seperate channel for that
+@L. Lawliet 
+Such as?
+I might hold a vote on that
+
+
+[18-Aug-20 07:23 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Could I have emoji manager role? I manage my emojis very well (I even have a spreadsheet)
+@MMK21Games 
+sure
+
+{Reactions}
+🎉 (2) 
+
+[18-Aug-20 07:26 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> such as pokecord and idle miner
+@L. Lawliet 
+I'll host a vote on it in a bit, ping me if I forget
+
+{Reactions}
+👀 
+
+[18-Aug-20 07:31 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> :Notepad: but it has transparent background (so that it looks sane in Dark Theme)
+@MMK21Games 
+I also use Dark Theme, but I couldn't/was too lazy to find transparent. Thanks, but I'll have to re-do the reactionrole
+
+{Reactions}
+🆗 
+
+[18-Aug-20 08:44 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Typo in the new faq (#💙blue-faq) "ho w"
+@MMK21Games 
+thx lol
+
+{Reactions}
+😌 
+
+[18-Aug-20 09:15 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Let me see #dp-faqs and #deleted-channel? (What does CB even stand for?)
+@MMK21Games 
+Use #deleted-channel stinky
+
+{Reactions}
+blobsad 
+
+[18-Aug-20 09:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add a polls bot as well
+@L. Lawliet 
+Already had this conversation before, although maybe not with you. Carl works just fine, but I don't wanna use him
+
+{Reactions}
+👆 
+
+[18-Aug-20 09:54 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> We can't see #dp-faqs or #deleted-channel .
+@Pablo 
+Thx I'll try to fix
+
+{Reactions}
+blobthonkang 
+
+[18-Aug-20 10:04 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ^ Fixed for #deleted-channel but not #dp-faqs
+@MMK21Games
+
+
+[18-Aug-20 10:04 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+k
+
+{Reactions}
+✅ 
+
+[18-Aug-20 10:31 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Can't send images in #deleted-channel or #🤖bot-commands
+@MMK21Games 
+thx, should be fixed
+
+{Reactions}
+✅ 
+
+[18-Aug-20 01:42 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Some info on #💙blue-faq is outdated due to the item gen being released.
+> CORRECTION: Already done.
+@Pablo 
+So is something outdated or did I already fix it?
+
+
+[19-Aug-20 09:51 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add an announcements channel
+@MMK21Games I use #👍polls-announcements
+
+
+[19-Aug-20 09:51 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Bring back the Manual Log of Server Changes
+@MMK21Games 
+Sure, but I think I'll put it in the new category this time
+
+{Reactions}
+😍 (2) 
+
+[20-Aug-20 02:42 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add this to #dp-faqs 
+> ```{
+>   "pack": {
+>     "pack_format": 6,
+>     "description": "A description for your datapack or resourcepack"
+>   }
+> }```
+@L. Lawliet 
+By the time I saw this I'm already almost done making my own thing
+
+{Reactions}
+markdownthonk 
+
+[20-Aug-20 11:57 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> And #rp-faqs ^
+@MMK21Games 
+k
+
+
+[20-Aug-20 11:58 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Bring back the Manual Log of Server Changes
+@MMK21Games 
+Did
+
+
+[20-Aug-20 11:58 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Suggestioln, update the notfications one, as i think that has bren changed
+@UgandanKnuckles 
+wdym?
+
+
+[20-Aug-20 04:10 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add 
+> **How to detect the item a person is holding**
+> In #dp-faqs
+@Quackleb 
+Sure
+
+
+[21-Aug-20 01:29 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> #reviews emoji: \💬
+@MMK21Games 
+Doesn't quite fit IMO, and if it's in Main category I definitely won't
+
+
+[21-Aug-20 01:29 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Move #🤖bot-commands (1) and #💙blue-faq (2) to OTHER/SPECIAL?
+@MMK21Games 
+Blue FAQ sure, probably not Bot Commands tho
+
+
+[21-Aug-20 10:45 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Resource Pack Discord: http://discord.gg/8nb2fdF
+@Mixtongent73 
+Sure I'll join it and then make an ad for it in #deleted-channel
+
+
+[21-Aug-20 11:08 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add my inactive server to affiliated list as well
+@L. Lawliet 
+EpicMCServers?
+
+
+[21-Aug-20 11:08 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+The thing is that I considerred it, since you did advertise me there after all, but I'm not sure if it's quite related to MC Commands, although it is MC.
+
+
+[21-Aug-20 05:57 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+I completely forgot to add your server
+
+
+[21-Aug-20 08:05 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> attach webhook for #deleted-channel
+@L. Lawliet
+
+
+[21-Aug-20 08:06 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+
+{Attachments}
+Knowledge Base - 😎Staff - ✅reviewed-suggestions [732624340528529540].txt_Files\unknown-3B6AF.png
+
+
+[22-Aug-20 08:47 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Give @Timber Cutter the @Bots [Not People] role pls
+@MMK21Games 
+iT ALREADY HAS THE bOTS ROLE
+
+
+[22-Aug-20 08:47 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+caps
+
+
+[22-Aug-20 08:48 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I see now. Why is it not showing up?
+@MMK21Games 
+It's only in #🤖bot-commands
+
+{Reactions}
+😆 
+
+[22-Aug-20 08:48 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> wrong chat you are on
+correct
+
+
+[22-Aug-20 08:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> merge #dp-faqs , #deleted-channel & #rp-faqs and use the pinned method for each message, like
+> (Pin ^)
+@Zefyro 
+As you know I've done some of that, but I still need to do it for #other-faqs which sounds like a nightmare
+
+
+[22-Aug-20 08:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Resource Pack Discord: http://discord.gg/8nb2fdF
+@Mixtongent73 
+Don't want to lol
+
+
+[22-Aug-20 08:49 AM] UgandanKnuckles#3891
+Wait i can message here, sheep fix?
+
+
+[22-Aug-20 08:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+UGANDA HOW CAN YOU TYPE HERE
+
+
+[22-Aug-20 08:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+found it
+
+
+[22-Aug-20 08:54 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Typo (also who calls pins  thumbtacks?)
+@MMK21Games 
+Fixing it
+
+
+[22-Aug-20 08:55 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+Oh that's not a typo I'm just used to saying `ctrl` as `cntrl` lol
+
+{Reactions}
+🤷 
+
+[22-Aug-20 08:59 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> maybe do a poll on what staff roles should have of perms if ur not sure
+@UgandanKnuckles 
+> Already done?
+@MMK21Games 
+> oh :P
+@UgandanKnuckles 
+Yep, already done. Administrators are able to "manage messages" in "More Info on DPs and RPs" and also do stuff with roles
+
+
+[22-Aug-20 09:07 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Use the unicode ™️ symbol instead of the ™️ emoji in #📋rules-verify (nitpick I know)
+@MMK21Games 
+I can't tell the differrence but ok
+
+
+[22-Aug-20 09:07 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+**™️ \™️**
+
+
+[22-Aug-20 09:07 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+™️ \™️
+
+
+[22-Aug-20 09:13 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Ban @MMK21Games for using light theme,
+@Zefyro 
+Unfortunately not part of the rules, but they do get public shaming
+
+{Reactions}
+upvote 
+
+[22-Aug-20 09:13 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Oh no I forgot how bad Discord's light theme is
+@MMK21Gamesbad
+
+
+[22-Aug-20 09:13 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Discord seems to have converted the symbol into an emoji 🤔 might be a platform thing
+Ye it does
+
+
+[22-Aug-20 09:15 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I was using light theme for demonstration purposes smh
+@MMK21Games 
+Well you don't get the Light Theme User role, but you do get the Flash Bang role (You also forgot the flashbang warning)
+
+{Reactions}
+🆗 
+
+[22-Aug-20 09:15 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> u are flash banged
+yep
+
+
+[22-Aug-20 09:40 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> flash banged role should make it s you can’t send images
+@epicgamer256705 
+Big brain idea right there I might do that
+
+{Reactions}
+downvote 🥖 
+
+[23-Aug-20 06:44 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Remove #🎀showcase🥓advertising 
+> 
+> It doesn't really do much, I don't really take notice of it it just clogs up the section a bit
+@🌵BugFixer - MiniMinnow 
+I guess I can host a vote on it or someth
+
+
+[23-Aug-20 11:18 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> i suggest removing #deleted-channel
+@QmelZ the Void 
+K, I'll call upon the voters once again
+
+
+[23-Aug-20 11:19 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> because it doesnt have plugins
+@QmelZ the Void 
+Someone told me it does have plugins, just barely any. Doesn't matter going to host a vote on removing it
+
+
+[23-Aug-20 11:19 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> warn people for flash banging people
+@epicgamer256705 
+Unfortunately not warnable
+
+
+[23-Aug-20 10:41 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> turn on carl's sticky roles thing if its not already on
+@QmelZ the Void 
+In my testing it hasn't worked, but remind me to try again tomorrow
+
+
+[24-Aug-20 11:20 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> delete the last message in #⭐rate-us , because its not true
+@QmelZ the Void 
+I forgot to delete it
+
+
+[24-Aug-20 12:12 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> more info on dps and rps is a bit misleading, more info or info would be better and shorter
+@QmelZ the Void 
+Tried that
+
+
+[25-Aug-20 08:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> No one can see the unverified channel's messages
+@Pablo ooops
+
+
+[25-Aug-20 09:16 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> replace carl he goes down a lot
+@L. Lawliet 
+With what?
+
+
+[27-Aug-20 07:04 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Rename `#vscode-plugins` to `#vscode`
+@MMK21Games 
+Not sure why it even was like that, fixed it
+
+{Reactions}
+👍 
+
+[28-Aug-20 12:35 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> srsly i couldnt find this said anywhere but this is so useful if ur new to commands: https://mcstacker.net
+@BIGMANCHEESE 
+This is already in #deleted-channel, but sure you can keep it there. I need to get around to making the "tools" more readable
+
+
+[28-Aug-20 02:29 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 is @MEE6 level up message intentional or a prank?
+@L. Lawliet 
+Intentional and a prank.
+
+
+[28-Aug-20 02:31 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> replace carl he goes down a lot
+@L. Lawliet 
+I'm working on setting up backups, but I'll never replace Carl
+
+
+[28-Aug-20 02:31 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> i dont know ,maki?
+@L. Lawliet 
+> it has same level up system as mee6 now i think
+@L. Lawliet 
+Maybe I'll host a vote on it
+
+
+[01-Sep-20 10:07 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> https://discord.com/channels/648294947123888128/745312077794508830/750400024311103558 the pack format values are wrong. What if I was making a RP for 1.12? Pack format -1?
+@MMK21Games 
+K let me fix that
+
+
+[02-Sep-20 07:10 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add server logo PNG to #❔about
+@MMK21Games 
+Where?
+
+
+[02-Sep-20 07:10 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add https://discordapp.com/channels/648294947123888128/729038923178967122/740617887580160030 to the Trello
+@MMK21Games 
+That may or may not be in the "Not adding" section
+
+{Reactions}
+blobsad 
+
+[02-Sep-20 08:14 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add a mod spot (like resource pack, datapack, MOD like forge mods...)
+@Broskibble 
+Some here are alright at Plugins, but I don't believe we have any modders. Not for now
+
+
+[02-Sep-20 08:53 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> change Showcase-Chanel too 3 different channels
+> 
+> Showcase-Datapack
+> 
+> Showcase-Resourcepack
+> 
+> Showcase-other
+@Broskibble 
+> Rather not, there is too many channels already.
+@Zefyro 
+As Zefyro said, :no: :NO: :ohno:⛔
+
+
+[02-Sep-20 11:42 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> i thought that was meant for singing song 😂
+@L. Lawliet 
+K I'll add another channelf or that
+
+
+[02-Sep-20 11:42 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+\🎤 \🎙️
+
+
+[02-Sep-20 01:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> maki for reaction roles as they are very easy to setup using that
+@L. Lawliet 
+Sure I'll try it
+
+
+[03-Sep-20 07:24 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Fix !serverinfo
+@MMK21Games 
+wdym?
+
+
+[03-Sep-20 07:25 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I got an idea: Moderators have a red name, right? And Dont like to be pinged is also red. People who are new to the server may think they can’t ping us, so i got a suggestion: you should change the eole hierachy, so the ping preference roles are the ones wich define the user’s color, and everyone knows who to ping and who not to ping.
+@FishyBusinessYT 
+I've hosted votes on this before, and I"m honestly not sure how I would handle it personally.
+
+
+[04-Sep-20 06:46 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Archive (and private?) channels instead of deleting them?
+@MMK21Games 
+Sure, I can also make a "reveal" role for the archived category
+
+
+[04-Sep-20 04:54 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> put the mcMMO plugin discord server in #deleted-channel
+@Duskbeak 
+What is that? Send a link and tell me what it is please, I don't exactly know plugins :p
+
+
+[04-Sep-20 05:06 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Maybe at the bottom?
+@MMK21Games 
+I don't know why this would be useful but ok
+
+{Reactions}
+blobthanks 
+
+[04-Sep-20 07:23 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Clean #deleted-channel (removing the messages that are here and are useless)
+@Pablo 
+Which messages?
+
+
+[04-Sep-20 07:43 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> pokerealm is unflagged 
+> it can be invited now
+@L. Lawliet 
+The question is do we want to 🤔
+
+{Reactions}
+✅ ❌ (4) 
+
+[07-Sep-20 10:30 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Or just remove the extra quote when you reply?
+@MMK21Games 
+Right click on the message, tell me if there's a quote option
+
+
+[07-Sep-20 10:30 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> *also, did you just break rule 2?*
+@MMK21Games 
+how?
+
+
+[07-Sep-20 10:35 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Ghost pinged @SwiPE
+@MMK21Games 
+oh I guess so :thinking_ban_hammer:
+
+
+[07-Sep-20 10:38 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@MMK21Games
+
+
+[07-Sep-20 10:38 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+ok
+
+
+[07-Sep-20 10:39 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make The #🐑 Sheepy-Chat-Channel that contain only Conversation between sheepy and person, not included another sheepy's command
+@SwiPE 
+Maybe I"ll host a vote on it
+
+
+[07-Sep-20 10:40 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+probably not
+
+
+[07-Sep-20 10:40 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+just use #deleted-channel
+
+
+[07-Sep-20 10:40 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+#🤖bot-commands *
+
+
+[08-Sep-20 07:03 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Typo in https://canary.discordapp.com/channels/648294947123888128/728696968175419443/746740924348104734
+@MMK21Games 
+Thanks
+
+
+[08-Sep-20 07:04 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> give me mod(lol its a joke not real)
+@donut 
+Maybe
+
+
+[08-Sep-20 07:04 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make degraded admin?
+@UgandanKnuckles 
+I'd have to get around to it tho
+
+
+[10-Sep-20 07:12 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I'd be interested in proofreading and/or minor copyediting
+@MMK21Games 
+K
+
+
+[10-Sep-20 07:14 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Unclosed markdown tag?
+@MMK21Games 
+Well that's kind of pissy. It must be a version specific thing
+
+{Attachments}
+Knowledge Base - 😎Staff - ✅reviewed-suggestions [732624340528529540].txt_Files\unknown-4258A.png
+
+
+[12-Sep-20 08:43 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make Bald role and give it to Ugandan
+@឵឵឵SlothsDaBest 
+Sounds like a good idea
+
+
+[12-Sep-20 08:43 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Sloth what is it you have against me
+@UgandanKnuckles 
+Everything
+
+
+[12-Sep-20 08:43 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> make that degraded admin role
+@UgandanKnuckles 
+Don't feel like it, too much effort
+
+
+[12-Sep-20 08:43 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Sheep add marriage bot and marry me
+@Edaz 
+> That is an order
+@Edaz
+
+
+[12-Sep-20 08:43 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+It's already here
+
+
+[12-Sep-20 08:43 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+but it's confined to #🤖bot-commands
+
+
+[12-Sep-20 08:53 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Give Carl creative mode
+@Dapper 
+Already has been
+
+
+[12-Sep-20 08:55 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Give *me* creative mode on the official carl bot minecraft server
+@Dapper 
+There's an official carl bot minecraft server?
+
+
+[12-Sep-20 08:55 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+https://tenor.com/view/surprised-pikachu-pokemon-shock-surprised-pikachu-gif-15357817
+
+{Embed}
+https://tenor.com/view/surprised-pikachu-pokemon-shock-surprised-pikachu-gif-15357817
+Knowledge Base - 😎Staff - ✅reviewed-suggestions [732624340528529540].txt_Files\tenor-E8F23.png
+
+
+[12-Sep-20 08:57 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Sheep be smarter
+> and yes there is a official carl bot minecraft server
+@Dapper 
+Ok
+
+
+[12-Sep-20 08:58 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Deny this suggestion if you're Sheep
+@Dapper 
+I am sheep
+
+
+[12-Sep-20 08:58 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+(You have been denied)
+
+
+[18-Sep-20 09:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Fix the inconsistency:
+> ```yml
+> Carl
+> Sheepbot
+> GiveawayBot
+> reminder-bot
+> ```
+@MMK21Games 
+idk it's based on the name the creator chose
+
+
+[19-Sep-20 08:06 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Ban everyone with weeb role
+@asdru 
+eh maybe
+
+
+[19-Sep-20 08:07 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Better add that to #💙blue-faq
+@MMK21Games 
+Did
+
+
+[19-Sep-20 08:07 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add pokerealm bot (time for another vote)
+@L. Lawliet 
+ok
+
+
+[19-Sep-20 08:07 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make @makechatalive reaction role that mods can do to ping everyone with that role to come make chat alive @🐑Sheep-kun; SheepCommander☭🎩
+@donut 
+eh
+
+
+[20-Sep-20 09:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 reading suggestions more often? (This is a suggestion)
+@UgandanKnuckles 
+I read them, I just don't always feel like responding :person_dabbing:
+
+
+[20-Sep-20 09:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Give lesser administrator Role perms? (a idea, your choice sheep)
+@UgandanKnuckles 
+Maybe
+
+
+[20-Sep-20 09:58 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> give me ability to remove reaction in #deleted-channel
+@L. Lawliet 
+Fine you're re-promoted
+
+
+[20-Sep-20 09:59 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> and another pokerealm vote
+@L. Lawliet 
+I feel like I should wait another week but maybe
+
+
+[20-Sep-20 10:08 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Update https://discord.com/channels/648294947123888128/728861244492087318/728864638040670299 with @lesseradmin
+@UgandanKnuckles 
+Added
+
+
+[20-Sep-20 11:27 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Wait if im a bot, wouldnt i need reveal all (mostly a joke, cause i think it had administrator, UNLESS?)
+@UgandanKnuckles 
+OK hold on let me give you your bot roles
+
+
+[20-Sep-20 11:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add #rant because... why not? It would be nice to have a place to rant.
+@Pablo 
+just use #💬general, although try to keep it more in one message/shorter.
+
+
+[22-Sep-20 10:20 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> It would be nice if I had the @deleted-role role
+@MMK21Games 
+If only I knew which one that is
+
+{Reactions}
+🤔 (3) 
+
+[22-Sep-20 03:20 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Invite <https://discord.com/oauth2/authorize?client_id=738847077014175884&scope=bot&permissions=379968> he's online sometimes and doesn't need too many perms
+@MMK21Games 
+what does it do again
+
+
+[22-Sep-20 03:21 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> But sheep maybe lesser admin could get role perms, cause why not? @🐑Sheep-kun; SheepCommander☭🎩
+@UgandanKnuckles 
+> Cause no
+@asdru 
+> no
+@Auskip 
+> no
+@GoatInABoat 
+well you see
+
+
+[24-Sep-20 08:28 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I really want to blend fully in with the bots, but like i cant cause green name, so sheep could you maybe either give lesser admin the same color or give me reveal all instead of all mod roles (the thing with 2nd is it would give me administrator which i know you dont want to give)
+@UgandanKnuckles 
+Fine you get to go undercover
+
+
+[24-Sep-20 10:24 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add a manga cafe channel
+@Pan, Just Pan 
+What does that even mean?
+
+
+[24-Sep-20 05:23 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add #Vibe-Room for the people that wanna vibing 🏳️‍🌈
+@SwiPE 
+What does that mean?
+
+
+[24-Sep-20 05:46 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ^ decline this suggestion
+@Dapper 
+I mean since they haven't even clarified sure
+
+
+[29-Sep-20 10:24 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> #deleted-channel definitely needs to be in other/special
+@MMK21Games 
+sure
+
+
+[29-Sep-20 10:24 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@SwiPE
+
+{Attachments}
+Knowledge Base - 😎Staff - ✅reviewed-suggestions [732624340528529540].txt_Files\unknown-DA7CB.png
+
+
+[29-Sep-20 10:24 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+It's a good thing I don't have eyes
+
+
+[29-Sep-20 01:28 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+SHIT
+
+
+[29-Sep-20 01:28 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+FUCK
+
+{Reactions}
+🚫 (7) 
+
+[29-Sep-20 03:21 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> adopt me
+@Vladilima 
+ok
+
+{Reactions}
+woo 
+
+[29-Sep-20 05:23 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> abandon @Vladilima
+@Dapper 
+Hard if they're adopted by someone else ¯\_(ツ)_/¯
+
+{Reactions}
+🤬 
+
+[29-Sep-20 05:24 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add some sort of competition/event where we have to remake something or idk just make it happen
+@asdru 
+ummmmmmmmm maybe
+
+
+[01-Oct-20 01:19 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> cant get want to be pinged and alright with being pinged at the same time, make it so we can
+@QmelZ the Void Done
+
+
+[01-Oct-20 02:52 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> change the icon to me and the name to dppae slae
+@Dapper 
+mmmmmmmmmmmmmmmmm maybe if you make it spooky somehow I might do it for a dya or so
+
+
+[01-Oct-20 11:51 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Agree
+@UgandanKnuckles 
+Me laughing at the idea:
+My third in command agreeing with it:
+Me:
+
+
+[06-Oct-20 09:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ~~`!tag raw` seems to be broken (it works on other servers)~~ Thanks for fixing!
+@MMK21GamesI didn't do anything
+
+{Reactions}
+🤷‍♂️ 
+
+[06-Oct-20 09:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make !tag blue 
+> Messange: **BALD, because he's choose glow squid ‼️ **
+@SwiPE 
+You can add it yourself
+
+
+[06-Oct-20 09:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add an "insult dream" channel
+@asdru 
+Might, just might
+
+
+[06-Oct-20 09:50 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add a sheep is a sheep, channel
+@UgandanKnuckles 
+what??
+
+
+[06-Oct-20 09:51 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> and poketwo bot
+@L. Lawliet 
+The only reason I don't add it without a vote is because there is active opposition from @Exor_Sk_2006 (Actually might've been someone else not sure)
+
+
+[06-Oct-20 10:26 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add a link to https://www.mikeash.com/getting_answers.html in #deleted-channel or somewhere
+@MMK21Games 
+sure
+
+
+[07-Oct-20 11:48 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Post when a poll has ended and it's results in #👍polls-announcements (as a separate message) instead of editing the original message.
+@MMK21Games 
+For now I'm editting the original message & sending a message saying that the vote ended with a message link
+
+{Reactions}
+👍 
+
+[07-Oct-20 11:48 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make `!tag` exempt from being redirected to #🤖bot-commands because... [hopefully I shouldn't need to say]
+@MMK21Games 
+I think I can make specific tags not do that, maybe even you can change it. Hold on
+
+
+[08-Oct-20 11:21 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ban everyone
+@asdru 
+hold on
+
+
+[08-Oct-20 11:21 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!ban everyone
+
+
+[08-Oct-20 11:21 AM] Carl-bot#1536
+everyone is not a valid member or member ID.
+
+
+[08-Oct-20 11:21 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+I did it
+
+{Reactions}
+🇹 🇽 
+
+[08-Oct-20 11:23 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> make me the new owner
+@Dapper 
+how about no
+
+
+[08-Oct-20 11:23 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> *or you could give me Manage Server and I'll do it for you 😉*
+@MMK21Games 
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmnommmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+
+[10-Oct-20 12:28 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add roles *@Glow Squid Bad* and *@Glow Squid Good* people with *@Glow Squid Good* are automatically banned from the server. sounds good huh? 
+perhaps
+
+
+[11-Oct-20 06:52 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> **Which one should i pick?**
+> A. Milk
+> B. Egg
+@SwiPE 
+> What about milk and egg?
+@SwiPE 
+I should just ban you, sloth, dapper, and a few others from #👍reviews👎 & #deleted-channel
+
+{Reactions}
+egg 
+
+[12-Oct-20 11:02 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> <insert a bunch of stuff>
+@UgandanKnuckles 
+how about no
+
+
+[12-Oct-20 11:07 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+actually what was it again?
+
+
+[12-Oct-20 11:09 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 accept my previous suggestion
+@Dapper 
+hmm
+
+
+[12-Oct-20 11:09 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Delete @asdru
+@Dapper 
+dunno maybe I'll demote him or smth
+
+
+[12-Oct-20 11:31 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 replace next video from "we dont know" to "Before next decade"
+@UgandanKnuckles 
+not rn
+
+
+[12-Oct-20 11:02 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> #💙blue-faq BluPvPs
+@Pablo 
+Thank you
+
+
+[13-Oct-20 07:51 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Ban discussion in #deleted-channel
+@MMK21Games 
+It already fucking is but you're mod abusing and bypassing slow mode
+
+
+[13-Oct-20 07:56 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add it to channel topic pls (also how am I abusing my slowmode bypass its only 30 seconds)
+@MMK21Games 
+fine sheesh
+
+{Reactions}
+😉 (2) 
+
+[13-Oct-20 07:57 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+\#💬general
+
+
+[13-Oct-20 10:30 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> In #deleted-channel they should change “Colorize” to Colorize text generator
+@Duskbeak 
+k done
+
+
+[13-Oct-20 10:30 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ***`Delete Asdru`***
+@Dapper 
+> `/ban Asdru`
+@GoatInABoat 
+> ```html
+> ?ban Asdru```
+@UgandanKnuckles
+Damn what did Asdru do
+
+
+[13-Oct-20 10:31 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> *or you could give me Manage Server and I'll do it for you 😉*
+@MMK21Games 
+Hold on
+
+{Reactions}
+👀 
+
+[13-Oct-20 10:32 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+wait which ones lmao
+
+
+[13-Oct-20 10:32 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+actually none of them are restricted in the first place
+
+
+[13-Oct-20 10:34 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> #deleted-channel but we collectively write a song, one line at a time.
+@MMK21Games 
+That is literally what it is ._.
+
+
+[13-Oct-20 10:35 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> change the icon to me and the name to dppae slae
+@Dapper No
+> Agree
+@UgandanKnucklesTRAITOR!!!
+
+
+[13-Oct-20 10:47 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> PUT the rp dp related stuff before the other/special section FFS
+@asdru 
+can you ellaborate?
+
+
+[13-Oct-20 10:47 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Clean this channel of things that are not suggestions and/or are being ignored:
+@Pablo
+Just did
+
+
+[13-Oct-20 10:48 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> put THE OTHER DP RP RELATEd stuff **ABOVE** the other/specia
+@asdru 
+oh ok sounds good
+
+{Reactions}
+🇹 🇾 
+
+[13-Oct-20 11:06 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> #deleted-channel Is visible without archived channel role.
+@Pablo 
+thx for your report will sync perms
+
+
+[14-Oct-20 11:07 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 Give me VIP
+@Dapper don't know why you don't have it
+
+
+[14-Oct-20 11:08 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add @Dapper "VIP [Active]"
+
+
+[14-Oct-20 11:08 AM] Carl-bot#1536
+Added **V.I.P. [Active]** to **aelS hctoW#0746**.
+
+
+[14-Oct-20 11:08 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 don't give the stinky witch seal vip
+@GoatInABoat 
+hmmm
+
+{Reactions}
+😩 🍆 👶 
+
+[14-Oct-20 03:41 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> make it so you need either `@Alright with being pinged` or `@Don't like to be pinged` to verify or something, because it will be very very very helpful in my opinion
+@QmelZ the Void 
+ain't falling for that this time.
+
+Anyways, sure I agree but I'll have to work out how to implement that
+
+
+[15-Oct-20 10:14 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make a meme channel
+@VeSaucy 
+Currently you can just post in #💬general, although I might host a vote on making a specific channel later
+
+
+[15-Oct-20 03:43 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Give @Shizmon  the "Dppae's wife" role
+@Dapper hold on
+
+
+[15-Oct-20 03:43 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "Dppae's wife [Joke]"
+
+
+[15-Oct-20 03:43 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **Dppae's wife [Joke]** has been created.
+**Color:** #000000
+**Mentionable:** False
+**Shown separately:** False
+766431061931589662
+
+
+[15-Oct-20 03:43 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add @Shizmon "Dppae's wife [Joke]"
+
+
+[15-Oct-20 03:43 PM] Carl-bot#1536
+Added **Dppae's wife [Joke]** to **Shizmon#1203**.
+
+
+[15-Oct-20 03:43 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+he has suggestions hidden so he won't know
+
+{Reactions}
+🤔 
+
+[16-Oct-20 08:46 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 Tags are still redirecting
+@MMK21Games 
+Can you create a quick list of all the tags that shouldn't redirect? It says none of them are set to redirect but idk
+
+
+[17-Oct-20 01:00 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> for acronyms sp for singleplayer, as for armor stand?
+@ly 
+Sure
+
+
+[17-Oct-20 01:10 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> The whole tag command should have redirection off (you're thinking of individual tags being restricted)
+@MMK21Games 
+Right hold on remind me in a bit
+
+
+[17-Oct-20 05:45 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ***`Consume my fecal matter`***
+@Dapper 
+> `Consume seals fecal matter`
+@GoatInABoat 
+> @🐑Sheep-kun; SheepCommander☭🎩 ***`^ accept this suggestion`***
+@Dapper 
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+
+[17-Oct-20 05:51 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> The whole tag command should have redirection off (you're thinking of individual tags being restricted)
+@MMK21Games 
+K looking into that now
+
+
+[17-Oct-20 05:52 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+fixed
+
+{Reactions}
+🎉 
+
+[18-Oct-20 03:50 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 You expected a actual suggestion, BUT IT WAS **I**, DAPPER SLAE
+> asking for the "Alcoholic" role
+@Dapper sure
+
+
+[18-Oct-20 03:50 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "Alcoholic [Joke]"
+
+
+[18-Oct-20 03:50 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **Alcoholic [Joke]** has been created.
+**Color:** #000000
+**Mentionable:** False
+**Shown separately:** False
+767519971806412800
+
+
+[18-Oct-20 03:50 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add @Dapper  "Alcoholic [Joke]"
+
+
+[18-Oct-20 03:50 PM] Carl-bot#1536
+Added **Alcoholic [Joke]** to **aelS hctoW#0746**.
+
+
+[19-Oct-20 09:43 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Delete that ^
+@MMK21Games 
+done
+
+
+[19-Oct-20 09:44 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Then remov e colours from the pronoun roles because it makes no sense
+@MMK21Games 
+Just makes it stand out a bit more, it's under Verified role anyways.
+
+
+[19-Oct-20 10:11 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> If you are reading this, you are now a woman
+@Dapper very interresting
+
+
+[21-Oct-20 12:21 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 Give me Mod++++ so I can flex on foof
+@Dapper Might
+
+
+[21-Oct-20 12:21 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add pokemon bot
+@L. Lawliet Let me check if there's still any active opposition from... Exor was it?
+
+
+[21-Oct-20 12:21 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> BEHOLD THE EGGS
+> scam
+> it didn't work
+> MY GRAND PLAN
+> FOILED
+@Dapper Fool
+
+
+[22-Oct-20 11:28 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Can we get a "John" role to be assigned to no one but have it be pingable
+@Dapper mmmm idk perhaps
+
+
+[22-Oct-20 03:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> make a servers to raid channel also make a madlad role
+@Anthony2be 
+Madlad role sure, servers to raid no
+
+
+[22-Oct-20 03:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "Malad [Joke]"
+
+
+[22-Oct-20 03:03 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **Malad [Joke]** has been created.
+**Color:** #000000
+**Mentionable:** False
+**Shown separately:** False
+768957728299024424
+
+
+[22-Oct-20 03:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add @Anthony2be "Malad [Joke]"
+
+
+[22-Oct-20 03:03 PM] Carl-bot#1536
+Added **Malad [Joke]** to **Anthony2be#1900**.
+
+
+[22-Oct-20 03:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+wait frick
+
+
+[22-Oct-20 03:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+lmao
+
+
+[22-Oct-20 04:22 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add
+> the
+> thing that
+> basically
+> u make jhonpaulinso featured dev
+@asdru Ok hold on let me reach out to him and partner our servers (I will actually ask but will burn the bridge like seconds later)
+
+
+[23-Oct-20 10:36 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I summon Sheep Commander **IN ATTACK POSTITION**
+@Dapper
+
+{Attachments}
+Knowledge Base - 😎Staff - ✅reviewed-suggestions [732624340528529540].txt_Files\Wooloo_Defencive_form-5ACDC.png
+
+{Reactions}
+OwOsweat (3) 
+
+[24-Oct-20 12:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> a
+@Pablo good job
+
+
+[24-Oct-20 12:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "a"
+
+
+[24-Oct-20 12:03 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **a** has been created.
+**Color:** #000000
+**Mentionable:** False
+**Shown separately:** False
+769637165478576168
+
+
+[24-Oct-20 12:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> make 4️⃣ role, and give it to me
+@QmelZ the Void hmm
+
+
+[24-Oct-20 12:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "4️⃣"
+
+{Reactions}
+4️⃣ (4) 
+
+[24-Oct-20 12:03 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **4️⃣** has been created.
+**Color:** #000000
+**Mentionable:** False
+**Shown separately:** False
+769637249661927444
+
+{Reactions}
+4️⃣ (3) 
+
+[24-Oct-20 12:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add @QmelZ the Void 4️⃣
+
+{Reactions}
+4️⃣ (3) 
+
+[24-Oct-20 12:03 PM] Carl-bot#1536
+Added **4️⃣** to **тне оие аиd оиlч, фмеlz тне vоid#0526**.
+
+{Reactions}
+4️⃣ (3) 
+
+[24-Oct-20 12:04 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 Give me the "Taken, sorry ladies" role since I got a gf
+@Dapper sure
+
+
+[24-Oct-20 12:04 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "Taken, sorry ladies"
+
+
+[24-Oct-20 12:04 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **Taken, sorry ladies** has been created.
+**Color:** #000000
+**Mentionable:** False
+**Shown separately:** False
+769637442276818994
+
+
+[24-Oct-20 12:04 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add @Dapper "Taken, sorry ladies"
+
+
+[24-Oct-20 12:04 PM] Carl-bot#1536
+Added **Taken, sorry ladies** to **aelS hctoW#0746**.
+
+
+[24-Oct-20 12:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Give me 4 role lol
+@UgandanKnuckles 
+Idk you should ask an Admin
+
+
+[24-Oct-20 12:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> e
+@foof🎄 e
+
+
+[24-Oct-20 12:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "e"
+
+
+[24-Oct-20 12:07 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **e** has been created.
+**Color:** #000000
+**Mentionable:** False
+**Shown separately:** False
+769638199344496701
+
+
+[24-Oct-20 12:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add @foof🎄 e
+
+
+[24-Oct-20 12:07 PM] Carl-bot#1536
+Added **e** to **foof#3527**.
+
+
+[24-Oct-20 12:08 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make the "Role" role. **Roleception**
+@Pablo
+
+
+[24-Oct-20 12:08 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "Role"
+
+
+[24-Oct-20 12:08 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **Role** has been created.
+**Color:** #000000
+**Mentionable:** False
+**Shown separately:** False
+769638468716199966
+
+
+[24-Oct-20 12:08 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "Roleception"
+
+
+[24-Oct-20 12:08 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **Roleception** has been created.
+**Color:** #000000
+**Mentionable:** False
+**Shown separately:** False
+769638488961450075
+
+
+[24-Oct-20 12:09 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> m
+@foof🎄 ok
+
+
+[24-Oct-20 12:09 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "m"
+
+
+[24-Oct-20 12:09 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **m** has been created.
+**Color:** #000000
+**Mentionable:** False
+**Shown separately:** False
+769638833473454082
+
+
+[24-Oct-20 12:27 PM] UgandanKnuckles#3891
+> Suggestion: Uganda does his own suggestions himself (no deleting stuff or changing/adding perms for now)
+@🐑Sheep-kun; SheepCommander☭🎩  okay will do
+
+
+[24-Oct-20 01:41 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Turtle role because idk 264 roles go brr
+@SpottyTheTurtle I'm afraid it's already been added
+
+
+[24-Oct-20 01:41 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add @SpottyTheTurtle "Turtle"
+
+
+[24-Oct-20 01:41 PM] Carl-bot#1536
+Role ""Turtle"" not found.
+
+
+[24-Oct-20 01:41 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+wait
+
+
+[24-Oct-20 01:41 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@turtle
+
+
+[24-Oct-20 01:41 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+WAIT
+
+
+[24-Oct-20 01:43 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 69
+@Prime noice
+
+
+[24-Oct-20 03:40 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 Give me all the weird separator roles
+@Dapper I'll give you some
+
+
+[24-Oct-20 03:40 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+if I gave you all of them you'd be above the law
+
+
+[24-Oct-20 11:18 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add Raspberry Pi Edition to #✅autorole
+@MMK21Games 
+That's it's own edition? Hold on let me look it up
+
+
+[24-Oct-20 11:18 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+I guess it does
+
+
+[24-Oct-20 11:20 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add Raspberry Pi Edition to #✅autorole
+@MMK21Games 
+So what color should I make the role, and can you create an emoji to use for me?
+
+
+[24-Oct-20 11:21 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Give staff green colour
+@🌵BugFixer - MiniMinnow 
+No the pallete is from Yellow to Orange rn
+
+{Reactions}
+👍 (2) 
+
+[24-Oct-20 11:22 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Give MiniMinnow his staff role back? Idk where it's gone
+@🌵BugFixer - MiniMinnow Huh ok sure I guess
+
+{Reactions}
+👍 
+
+[25-Oct-20 01:32 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@MMK21Games I've now added the emoji but what color should I use for the role? hmm
+
+
+[25-Oct-20 01:32 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+just had an idea
+
+
+[25-Oct-20 11:31 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Also add Minecraft Education Edition to #✅autorole
+@UgandanKnuckles 
+You do know that's part of BE right ._.
+
+
+[25-Oct-20 11:31 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 plz do
+@UgandanKnuckles Perhaps
+
+
+[25-Oct-20 11:53 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 just remove all colors from every role
+> make em all gray
+@Dapper mmmmmmm eh
+
+
+[25-Oct-20 02:18 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Give me any color that isn't this disgusting red (preferably purple or pink)
+@Kazuma 
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm ok
+
+
+[26-Oct-20 08:46 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Give me **E 🥛** Role and make the color's Sunset Orange
+@SwiPE Umm send a hex code but I might not give it anyways since it's probably too close to existing roles
+
+
+[26-Oct-20 11:09 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 read the new best review #👍reviews👎 hehe
+@UgandanKnuckles 
+> ^^^
+@🎄DumByAWaffle 
+> ^^^^
+@Kazuma 
+> ^^^^^
+@GoatInABoat 
+> ^^we are very mature
+@UgandanKnuckles 
+why
+
+
+[26-Oct-20 11:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest sheep to ban @UgandanKnuckles
+@Kazuma 
+he's a valueble member of community, **maybe demote**
+
+{Reactions}
+upvote 🅱️ (2) 🅰️ (2) 🇳 (2) 
+
+[26-Oct-20 11:53 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> #👍reviews👎 is great quality rn
+@UgandanKnuckles 
+> fax
+@🎄DumByAWaffle 
+no
+
+{Reactions}
+🇾 (2) 🇪 (2) 🇸 (2) 
+
+[26-Oct-20 11:53 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> ^^^
+> @🎄DumByAWaffle no
+
+{Reactions}
+🇾 (2) 🇪 (2) 🇸 (2) 
+
+[26-Oct-20 11:54 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add an "insult dream" channel
+@asdru 
+You've managed to start your own small vote that's had 15 voters in total. In that case I guess I'll hold an actual vote
+
+{Reactions}
+this (3) upvote (2) 
+
+[26-Oct-20 12:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Ghost ping?
+@UgandanKnuckles That is #deleted-channel, I delete after I've responded and acted
+
+
+[26-Oct-20 12:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add roles for #1, #2, #3 and top 5 ppl with most roles
+@asdru Sorry no
+
+
+[26-Oct-20 12:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> A list pinned somewhere would make more sense
+@MMK21Games Maybe I might but since roles isn't the focus anymore and I'm responding way too late probably not
+
+
+[26-Oct-20 12:45 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> why not merge #deleted-channel and #deleted-channel in one channel, idk a name but they are locked channels and that will make it less channels in total
+@QmelZ the Void 
+Maybe
+
+{Reactions}
+🇰 
+
+[26-Oct-20 12:47 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> What even was the context of that?
+@MMK21Games lol, it was Asdru asking for top #1 etc. with most roles
+
+{Reactions}
+🆗 
+
+[26-Oct-20 02:48 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> at the bottom General FAQ in #❔about add
+> 
+> **Q: Who here loves me?**
+> **A:** Larry loves you. :larry:
+@Dapper mmmmm maybe
+
+
+[26-Oct-20 02:49 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Change featured dev color to timber forge non color
+@asdru Nah that Creeper Magnet green looks noice, but you can ask for a color role
+
+
+[26-Oct-20 02:58 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> please accept my Larry suggestion, and add it immediately ;-;
+@Dapper mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm perhaps
+
+
+[27-Oct-20 08:14 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Give me MiLK 🥛 role
+> #6ef2b9 = hex code
+@SwiPE let's see
+
+
+[27-Oct-20 08:14 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "🥛MiLK COLOR" #6ef2b9
+
+
+[27-Oct-20 08:14 AM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **🥛MiLK COLOR** has been created.
+**Color:** #6ef2b9
+**Mentionable:** False
+**Shown separately:** False
+770666735808151563
+
+
+[27-Oct-20 08:14 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@deleted-role
+
+
+[27-Oct-20 08:14 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+ok that's an acceptable color
+
+
+[27-Oct-20 08:15 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> i suggest that the message above me is not a suggestion
+@QmelZ the Void 
+> *What are you suggesting* 🤔
+@MMK21Games 
+> I suggest someone make a suggestion
+@Kazuma what
+
+
+[27-Oct-20 08:15 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add more women
+@asdru how
+> ^^^
+@🎄DumByAWaffle 
+> :CB_Repeating: `/summon woman ~ ~ ~`
+@QmelZ the Void I see
+
+
+[27-Oct-20 08:16 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest that this suggestion not be accepted
+@Dapper 
+> aelS hctoW#0746 just evolved to become... ||2yo and horny :person_dabbing:|| 
+> ||Fine your lvl is `10`, use `!rank`/`!levels` in #🤖bot-commands||
+@MEE6 sure
+
+
+[27-Oct-20 08:17 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest you add a Water Gang! role
+@🎄DumByAWaffle We only will accept it as a color role come back to me when you have a hex code in mind
+
+
+[27-Oct-20 08:22 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest that the suggestion channel not be used for suggestions anymore, but to be used for idea submissions instead
+> 
+> I also suggest that the slowmode on #deleted-channel be removed
+@Dapper 
+1. That's about the same thing
+2. that's to try to combat convos but I might lower it
+
+
+[27-Oct-20 08:24 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "WaterGang Color" #4DB4D5
+
+
+[27-Oct-20 08:24 AM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **WaterGang Color** has been created.
+**Color:** #4db4d5
+**Mentionable:** False
+**Shown separately:** False
+770669203585630258
+
+
+[27-Oct-20 08:24 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@deleted-role
+
+
+[27-Oct-20 08:24 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+hmm
+
+
+[27-Oct-20 08:24 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@🎄DumByAWaffle I think that's too close to Knowledgeble/Admin try something else, maybe a dark blue
+
+
+[27-Oct-20 08:30 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest that you remove `AFK VC` because it is useless, why would you even make one?
+@Dapper sure
+
+
+[27-Oct-20 08:34 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest that you combine #dp-faqs, #other-faqs, and #other-faqs
+@Dapper I know but I'm not taking the time rn, you can see progress in #deleted-channel and #deleted-channel
+
+
+[27-Oct-20 08:36 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest that you get off your lazy ass and actually start to work on the server again
+@Dapper no
+
+{Reactions}
+🅱️ 🇺 🇷 🇳 
+
+[27-Oct-20 08:37 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest that only **I** am allowed to suggest stuff
+> everyone else can just submit their "ideas"
+@Dapper mmmmmmmmmmmmmmmmmm
+
+
+[27-Oct-20 09:31 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest that you feed me some food, I'm hungry
+@Dapper grandpa why
+
+
+[27-Oct-20 09:31 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Sheep, u forgot to add the** 🥛Milk role** to me ;-;
+> Add it to me "now"
+@SwiPE k
+
+
+[27-Oct-20 09:31 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add @SwiPE @deleted-role
+
+
+[27-Oct-20 09:31 AM] Carl-bot#1536
+That member already has that role.
+
+
+[27-Oct-20 09:31 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+stoopid
+
+
+[27-Oct-20 09:32 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest that Ug be demoted for telling me to suggest something in #deleted-channel
+@Dapper He will be demoted to.... ||    ||
+
+
+[27-Oct-20 01:42 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Suggestion - add a :man-fucking-his-dog: emoji
+@🎄DumByAWaffle No
+
+{Reactions}
+🇸 🇦 🇩 
+
+[27-Oct-20 01:42 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest that Ug be demoted for telling me to suggest something in #deleted-channel
+@Dapper might
+
+{Reactions}
+upvote (3) 
+
+[27-Oct-20 10:58 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Suggestion: add a ||penis|| emoji :)
+@🎄DumByAWaffle
+
+
+[27-Oct-20 10:58 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+:no:
+
+{Reactions}
+🇼 🇭 🇾 🇳 🇴 🇹 
+
+[28-Oct-20 09:39 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Suggestion: Add || B|| I|| T|||| C|| H|| || L|| A|| S|| A|| G|| N|| A|| || E|| M|| O|| J|| I|| :)||
+@SwiPE 
+I want to but don't know what to put
+
+
+[28-Oct-20 01:51 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> bedrock sux LMAOAOOOOO XDDDD TORLOLOLOL :person_dabbing::person_dabbing: :loser: :conga_time: :conga_time: :loser: :java: :this:
+@🎄DumByAWaffle 
+> :person_dabbing:
+@foof🎄 Wrong channels
+
+
+[28-Oct-20 01:51 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add a version of Minecraft inside the server so we can test datapacks here
+@🌵BugFixer - MiniMinnow 
+if only...
+
+
+[28-Oct-20 05:02 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+"Librarian/Keeper of knowledge role - for somebody who does their best to memorize where everything is"
+- Rick
+Yeah will definitely consider it but probably after we finish re-doing resources and moving stuff
+
+
+[28-Oct-20 05:18 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> re-promote me?
+@Anthony2be 
+Did I forget? lmao
+
+
+[28-Oct-20 08:04 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I liked the original name for @deleted-role
+@🎄DumByAWaffle how unfortunate
+
+
+[28-Oct-20 08:05 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Suggestion: add a ||penis|| emoji :)
+@🎄DumByAWaffle either get a cartoon picture to be used as an emoji or draw one yourself.
+
+
+[28-Oct-20 08:06 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add this
+> https://invite.poketwo.net/
+@L. Lawliet well after the removal of all Minigame bots and active opposition from Exor ye no
+
+
+[28-Oct-20 08:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+I know this is a late response but just letting you know
+
+
+[28-Oct-20 08:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> a spooky datapack competition
+@L. Lawliet [ also a late reply]
+I don't know if I have the community for that and I don't know how I'd host it, and now the spoopy season is about over probably not
+
+{Reactions}
+👆 (2) 
+
+[28-Oct-20 10:36 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> maybe add a github chat channel where people can chat about the github stuff and be able to send files? but in order to access the channels related to the github you would need a role?
+@Anthony2be 
+We can always just use #💬general but I supposed that'd be easier since it's annoying when your an entire conversation gets derailed by an anime pfp so sure
+
+
+[28-Oct-20 11:37 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> May i give myself all seperator roles?
+@UgandanKnuckles 
+Yes you can but *why*
+
+
+[28-Oct-20 11:37 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩  why not?
+@UgandanKnuckles mmmmm
+
+
+[29-Oct-20 09:52 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Your friendly reminder to update this
+> https://cdn.discordapp.com/attachments/728700064381534230/771415098064371763/Screenshot_20201029-164745.png
+@MMK21Games 
+k
+
+{Embed}
+https://cdn.discordapp.com/attachments/728700064381534230/771415098064371763/Screenshot_20201029-164745.png
+https://cdn.discordapp.com/attachments/728700064381534230/771415098064371763/Screenshot_20201029-164745.png
+
+{Reactions}
+Blue (3) 
+
+[29-Oct-20 01:48 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> poggers emoji
+@🎄DumByAWaffle
+
+
+[29-Oct-20 01:48 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+:no:
+
+{Reactions}
+sadcat (2) 
+
+[29-Oct-20 01:50 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> pooger emoji? (not the same as pogger)
+@🎄DumByAWaffle what the heck
+
+
+[29-Oct-20 05:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> What about just pog emoji ?
+@SwiPE no
+
+
+[29-Oct-20 05:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> pug emoji ?
+@🎄DumByAWaffle what for?
+
+
+[29-Oct-20 05:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> pig emoji ?
+@🎄DumByAWaffle
+
+
+[29-Oct-20 05:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+🐷
+
+
+[29-Oct-20 05:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+🐽
+
+
+[29-Oct-20 05:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+🐖
+
+
+[29-Oct-20 05:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> peg emoji ?
+@GoatInABoat hmm
+
+
+[29-Oct-20 05:30 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Pet ||mini crewmate|| emoji?
+@SwiPE get it yourself
+
+
+[29-Oct-20 06:01 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add more cat emojis
+@🎄DumByAWaffle go make some
+
+
+[29-Oct-20 06:53 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest that I get the "Taken" role so no one flirts with me
+@Dapper 
+who would flirt with you grandpa
+
+
+[30-Oct-20 12:35 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> You should change the pronoun selectors order to avoid an expletive
+@Skilos609 hahahaa ~~not like I re-did the message for that joke~~ anyways will probably keep it for now but might remove it if someone actually complains lol
+
+
+[30-Oct-20 12:35 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> <https://www.gamergeeks.nz/>
+> 
+> This generator can generate custom item, custom spawn egg, etc. Also have banner tools and all minecraft database up to 1.16 (Simply custom /give and /summon) Maybe u can add it to #deleted-channel
+@SwiPE 
+> https://www.digminecraft.com/index.php
+> 
+> One of the complex minecraft command website. This site have command generator (almost all command include), id & name list, nbt tags, spawn event, guide for seeds, biomes, mobs, all minecraft item list + recipe (maybe useful)
+> 
+> Maybe u can add it to #deleted-channel
+@SwiPE 
+> just use mcstacker
+@foof🎄 
+What foof said, ye for the most part you can just use MCStacker :p
+
+{Embed}
+https://www.digminecraft.com/index.php
+DigMinecraft
+DigMinecraft is a great resource to answer your Minecraft game questions with pictures and step by step instructions to follow. Learn everything you ever wanted to know about the game called Minecraft!
+
+
+[30-Oct-20 12:35 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+might add these later anyways
+
+
+[30-Oct-20 12:37 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest that I get the "Taken" role so no one flirts with me
+@Dapper 
+> what if your like me
+> not taken
+> but dont want to flirt
+@foof🎄 
+> :no:
+@SwiPE 
+> please be on topic? go to #💬general to discuss
+@Anthony2be 
+At least you did osmething Anthony, g'job
+
+
+[30-Oct-20 12:39 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> can i have giveaways role
+@Anthony2be k
+
+
+[30-Oct-20 12:50 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Mee to pls
+@MMK21Games Let me create some autoroles to allow staff to get things like that
+
+{Reactions}
+earlyrelease 
+
+[30-Oct-20 12:52 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> also maybe make a giveaways channel
+@Anthony2be 
+eh
+
+{Reactions}
+#️⃣ 
+
+[30-Oct-20 01:45 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> make carl react to four with 4️⃣
+> `!ar add "four" {Reactu: 4️⃣}`
+@QmelZ the Void Now that the vote for fun stuff BARELY won (this is because of you) I might
+
+
+[30-Oct-20 01:45 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> also maybe make a giveaways channel
+@Anthony2be yeah no
+
+
+[30-Oct-20 01:45 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest you to give me a cute color
+@Kyouko ask for a hex code (asking for name is optional)
+
+
+[30-Oct-20 01:46 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> i suggest you give me a color
+@GoatInABoat check my response to ~~Kazuma's alt~~ Kyouko
+
+
+[30-Oct-20 01:47 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> #ed10ae maybe......
+@Kyouko 
+ok
+
+
+[30-Oct-20 01:47 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "T1 maybe" #ed10ae
+
+
+[30-Oct-20 01:47 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **T1 maybe** has been created.
+**Color:** #ed10ae
+**Mentionable:** False
+**Shown separately:** False
+771837749044183060
+
+
+[30-Oct-20 01:47 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@deleted-role
+
+
+[30-Oct-20 01:47 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+acceptable
+
+
+[30-Oct-20 01:49 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "T1 'good color'" #800135
+
+
+[30-Oct-20 01:49 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **T1 'good color'** has been created.
+**Color:** #800135
+**Mentionable:** False
+**Shown separately:** False
+771838158924415047
+
+
+[30-Oct-20 01:49 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@deleted-role
+
+
+[30-Oct-20 01:49 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+accetable
+
+
+[30-Oct-20 01:49 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add @Kyouko @deleted-role
+
+
+[30-Oct-20 01:49 PM] Carl-bot#1536
+Added **T1 maybe** to **Kyouko#4837**.
+
+
+[30-Oct-20 01:49 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add @GoatInABoat @deleted-role
+
+
+[30-Oct-20 01:49 PM] Carl-bot#1536
+Added **T1 'good color'** to **GoatInABoat#2016**.
+
+
+[30-Oct-20 01:51 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> can i have #59eafd as my color please?
+@Anthony2be k
+
+
+[30-Oct-20 01:51 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "T1 Please" #59eafd
+
+
+[30-Oct-20 01:51 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **T1 Please** has been created.
+**Color:** #59eafd
+**Mentionable:** False
+**Shown separately:** False
+771838744143724614
+
+
+[30-Oct-20 01:51 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@T5 Aperture Science
+
+
+[30-Oct-20 01:51 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+eh it might be too close to Knowledgeable color try something else
+
+
+[30-Oct-20 01:52 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+wait you're a  mod anyways
+
+
+[30-Oct-20 01:52 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+and that should be T2 not T1
+
+
+[30-Oct-20 01:53 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> well everyone is getting a color so i might have #80ff00
+@Senarteszek ~~**no**~~
+
+
+[30-Oct-20 01:54 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "T1 might have" #80ff00
+
+
+[30-Oct-20 01:54 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **T1 might have** has been created.
+**Color:** #80ff00
+**Mentionable:** False
+**Shown separately:** False
+771839400048853033
+
+
+[30-Oct-20 01:54 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@deleted-role
+
+
+[30-Oct-20 01:54 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+sure
+
+
+[30-Oct-20 01:54 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 why?
+@Senarteszek that was a joke, but you can't see the crossed out line with bold
+
+
+[30-Oct-20 01:58 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩  i can see it but it didn't seen like a joke lol
+@Senarteszek lol
+
+
+[31-Oct-20 12:07 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Itswheezymk has notified me of this please read very Important
+> this is a real thing so EMERGENCY ALERT please read this carefully 
+> A fair warning, Look out for a Discord user by the name of "shaian" with the tag #2974. He is going around sending friend requests to random Discord users, and those who accept his friend requests will have their accounts DDoSed and their groups exposed with the members inside it becoming a victim as well. Spread the word and send this to as many discord servers as you can. If you see this user, DO NOT accept his friend request and immediately block him. Discord is currently working on it. SEND THIS TO ALL THE SERVERS YOU ARE IN. This is IMPORTANT: Do not accept a friend request from shaian#2974. He is a hacker.
+> 
+> Tell everyone on your friends list because if somebody on your list adds one of them, they'll be on your list too. They will figure out your personal computer's IP and address, so copy & paste this message where ever you can.  He is going around sending friend requests to random discord users,  and those who accept his requests will have their accounts  and their IP Addresses revealed to him. Spread the word and send this to as many discord servers as you can. If you see this user, DO NOT accept his friend request and immediately block him!
+> STAY SAFE!
+@Joseph Wijaya 
+Not to be mean, but I see these messages a dozen a dime.
+
+I don't know if you're an actual person or just a bot, but I've dealt with many of these messages and they may as well be spam and rumors/lies that uses unknowing people to spread.
+
+__None of these are real__, accepting a friend request doesn't reveal any more information than there already is
+
+
+[31-Oct-20 05:14 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @Anthony2be its dumb lies, you cant
+@QmelZ the Void yep you can't
+
+
+[31-Oct-20 05:14 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add a rule against copypasta in #deleted-channel
+@MMK21Games wdym
+
+
+[31-Oct-20 05:14 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Let people ghost ping (for Halloween)
+@MMK21Games sure I guess?
+
+
+[01-Nov-20 01:30 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Ban this in certain channels:
+>  #deleted-channel 
+>  #👍reviews👎
+> https://cdn.discordapp.com/attachments/728700064381534230/772361909269168128/Screenshot_20201101-072855.png
+@MMK21Games
+wdym by ban in this case
+
+{Embed}
+https://cdn.discordapp.com/attachments/728700064381534230/772361909269168128/Screenshot_20201101-072855.png
+https://cdn.discordapp.com/attachments/728700064381534230/772361909269168128/Screenshot_20201101-072855.png
+
+
+[01-Nov-20 01:35 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> like, !ban
+@QmelZ the Void eh
+
+
+[03-Nov-20 03:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> make selecting a ping role a requirement to verify please
+@QmelZ the Void 
+That's possible but hard to implement.
+Rather than that I'll instead add ALRIGHT WITH BEING PINGED as a default role added when you join (alongside MEMBER)
+
+{Reactions}
+🇹 🇾 ❤️ 4️⃣ (2) 
+
+[03-Nov-20 03:10 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Change gulag to brazil
+@asdru maybe I'll add BRAZIL as the *joke* gulag
+
+
+[04-Nov-20 09:04 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> https://skylinerw.com/vdvman1/raycast/
+> 
+> Raycast generator
+@SwiPE 
+IIRC ithat generator doesn't work although maybe it's been updated?
+
+
+[04-Nov-20 11:31 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 may i get a custom blue colro role?
+@UgandanKnuckles 
+see #📢staff-resources staff clearence
+
+
+[06-Nov-20 08:49 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Cleanse the server
+@asdru 
+Ye sounds good
+
+
+[06-Nov-20 09:04 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> well, ugandan is moderator plus plus whatever, i am not, do i get one?
+@QmelZ the Void 
+**b r e h** check the new point system in #📢staff-resources
+
+
+[06-Nov-20 09:10 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest you give me mod
+@Kazuma 
+You'll have to get to mod+++ before you can upgrade your color role to T2 tho
+
+{Reactions}
+😩 
+
+[06-Nov-20 09:11 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Bring back the Spam Testing channel
+@🎄DumByAWaffle 
+Eh maybe later
+
+
+[06-Nov-20 12:22 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest you give me mod
+@Kazuma done
+
+{Reactions}
+😎 🇭 🇴 🇹 🇰 🇦 🇿 🇺 🇷 ⭕ 🇨 🕋 🇸 
+
+[06-Nov-20 12:22 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> https://skylinerw.com/vdvman1/raycast/
+> 
+> Raycast generator
+@SwiPE 
+Does this actually work? I can't test right now but if it does work I'll add it when we re-do the Raycasting FAQ
+
+
+[06-Nov-20 12:22 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> https://discordapp.com/channels/648294947123888128/727912383833702411/774367877226299462 add it back
+@Kazuma 
+> BRING BACK "BEHOLD THE EGGS"
+@🎄DumByAWaffle send the link
+
+
+[06-Nov-20 01:13 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Suggestion: Whenever someone say "Carl," the carl-bot comes and links to this video https://www.youtube.com/watch?v=jJOwdrTA8Gw
+> idk
+@🎄DumByAWaffle 
+Maybe when they say carlll but not just carl
+
+{Embed}
+FilmCow
+https://www.youtube.com/watch?v=jJOwdrTA8Gw
+Llamas with Hats 1-12: The Complete Series
+Get a signed copy of the new "Llamas with Hats: Babies" storybook:
+https://www.etsy.com/shop/filmcow
+
+Every episode of the Llamas with Hats saga.
+
+Support FilmCow on Patreon! Get BTS access and more:
+http://www.patreon.com/filmcow
+
+The FilmCow Shop:
+https://www.etsy.com/shop/f...
+Knowledge Base - 😎Staff - ✅reviewed-suggestions [732624340528529540].txt_Files\maxresdefault-F1D0C.jpg
+
+
+[06-Nov-20 03:01 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Become cute anime girl 😳
+@VeSaucy This is good enough for me
+
+{Attachments}
+Knowledge Base - 😎Staff - ✅reviewed-suggestions [732624340528529540].txt_Files\sheep-kun_pfp-B4F86.png
+
+
+[06-Nov-20 03:01 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+https://i.pinimg.com/474x/5c/d3/20/5cd3207ddb6ab32e47996c426833eedc.jpg
+
+{Embed}
+https://i.pinimg.com/474x/5c/d3/20/5cd3207ddb6ab32e47996c426833eedc.jpg
+Knowledge Base - 😎Staff - ✅reviewed-suggestions [732624340528529540].txt_Files\5cd3207ddb6ab32e47996c426833eedc-77FFF.jpg
+
+{Reactions}
+🥵 (4) 
+
+[06-Nov-20 03:01 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+https://i.pinimg.com/474x/80/68/58/8068588cc955966179d7921ed0fcc5df.jpg
+
+{Embed}
+https://i.pinimg.com/474x/80/68/58/8068588cc955966179d7921ed0fcc5df.jpg
+Knowledge Base - 😎Staff - ✅reviewed-suggestions [732624340528529540].txt_Files\8068588cc955966179d7921ed0fcc5df-706C2.jpg
+
+
+[06-Nov-20 03:02 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+Wait was that a shitpost? Eh I'll leave it
+
+{Reactions}
+🇨 (4) 🇺 (4) 🇹 (4) 🇪 (4) 💥 (2) 🇭 (2) 🇴 (2) 7️⃣ (2) 
+
+[06-Nov-20 05:06 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make us not being able to use the unused music vc.
+@Pablo wait you can? Hold on
+
+
+[06-Nov-20 05:06 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+You technichally get +0.5 for that ¯\_(ツ)_/¯
+
+
+[06-Nov-20 05:16 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ***add mudamaid 48 and the waifu game to ruin friendships***
+@VeSaucy tf is that
+
+
+[06-Nov-20 05:17 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Bring back: !fuck-everyone-here-in-the-ass
+@🎄DumByAWaffle 
+tags are being used for useful stuff these days, get with the times 😎
+
+{Reactions}
+😎 
+
+[06-Nov-20 11:51 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> **Problem with perms:** I can send messages in #deleted-channel but I don't have Manage Messages.
+@MMK21Games 
+That's a loop hole I forgot about when I added the GitHub bois role.changed that
+
+
+[06-Nov-20 11:52 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Also, I can't find the message in #👍polls-announcements where you said which perms each channel see should have.
+@MMK21Games 
+Huh well let me think
+
+
+[07-Nov-20 11:50 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> https://canary.discord.com/channels/648294947123888128/750717616418717827/774354420451377182 should say "Sublime Text 3 __Plugins__" to be consistent with the others
+@MMK21Games I could've sworn I already fixed that but I guess not
+
+
+[07-Nov-20 11:53 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Also, should I pin all the "header" messages? (Like the on linked above)
+@MMK21Games 
+Yeah if they're not already pinned
+
+
+[09-Nov-20 06:35 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Create a second memes channel so I know where to find general and meme should no be merged I’m being held hostage please let me-
+@VeSaucy 
+I can host a vo- shit time to go
+
+
+[09-Nov-20 09:00 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Make a spam ping channel so i can get 6969 ping number 
+> 
+> **PLZ MAKE IT, I BEG U**
+> 
+> I'm still have these rookie number ;-; and its not cool
+@SwiPE 
+You want to get to 6969? Make sure you have every Notify role, Want to be pinged, and I could also give you Staff just so you get the Staff pings and not actually because you're staff
+
+
+[10-Nov-20 10:27 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I suggest you to make a separate #shitpost or #memes channel, not to restrict memes from being posted on #💬general, but to prevent new people to being scared of talking here, like, "If the conversation is getting too dark/sexual, move to the other chat" kind of thing, and make that chat nsfw blocked.
+@Kazuma 
+Sounds like an alright idea hold on
+
+{Reactions}
+😄 
+
+[10-Nov-20 10:35 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> @🐑Sheep-kun; SheepCommander☭🎩 make a role for alts, so we don't get confused, but make it optional (reaction role) so we can at least try to fool people.
+@Kazuma eh
+
+{Reactions}
+🇩 🇴 💥 🇮 🇹 
+
+[11-Nov-20 04:58 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 1.17 replaceitem Converter       
+> - Requires python
+> - Converts /replaceitem to 1.17 /item format
+> - Put in datapack root folder and run to recursively search through all mcfunction files inside ```./data/*
+> replaceitem entity @a weapon.mainhand diamond_sword{tag:{blah:1}} 1
+> replaceitem block ~ ~ ~ container.0 diamond_sword{tag:{blah:1}} 1```
+> Becomes
+> ```
+> item entity @a weapon.mainhand replace diamond_sword{tag:{blah:1}} 1
+> item block ~ ~ ~ container.0 replace diamond_sword{tag:{blah:1}} 1```
+>  
+> Link: https://gist.github.com/onnowhere/66c439cf7088d370827c374a68033ed1 (edited
+> 
+> This is very useful for datapack makers to update their datapack into 1.17
+@SwiPE 
+Sounds great but I'm not sure where to put it, for now it'd be #community-resources
+
+{Embed}
+https://gist.github.com/onnowhere/66c439cf7088d370827c374a68033ed1
+Converts /replaceitem to 1.17 /item format. Put in datapack root fo...
+Converts /replaceitem to 1.17 /item format. Put in datapack root folder and run. Searches all mcfunction files inside ./data/* - replaceitem_converter.py
+Knowledge Base - 😎Staff - ✅reviewed-suggestions [732624340528529540].txt_Files\gist-og-image-C0670.png
+
+
+[11-Nov-20 04:59 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> WE NEED A DPAM CHANNEL
+@techno salami no
+> whenever says just a joke make carl put this in chat
+@Anthony2be no
+> WE NEED A SPAM CHANNEL
+@Dapper no
+> WE NEED A SPAM CHANNEL
+@🎄DumByAWaffle no
+> WE NEED A SPAM CHANNEL
+@techno salami no
+> @🐑Sheep-kun; SheepCommander☭🎩 make a role for alts, so we don't get confused, but make it optional (reaction role) so we can at least try to fool people.
+@Kazuma no
+> Make a spam ping channel so i can get 6969 ping number 
+> 
+> **PLZ MAKE IT, I BEG U**
+> 
+> I'm still have these rookie number ;-; and its not cool
+@SwiPE maybe
+> --*gunshot*
+> shhhhhhh, they shall never know
+@🎄DumByAWaffle no
+> Create a second memes channel so I know where to find general and meme should no be merged I’m being held hostage please let me-
+@VeSaucy perhaps
+> Combine #deleted-channel with a resources channel
+@🌵BugFixer - MiniMinnow which one?
+
+
+[12-Nov-20 12:13 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Delete these things in #deleted-channel #deleted-channel
+@MMK21Games thanks for reminding me
+
+
+[12-Nov-20 02:23 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> uwu
+@VeSaucy stop
+
+{Reactions}
+🇴 (3) 🇼 (3) 🅾️ (3) OwOsweat (2) owo (2) 
+
+[12-Nov-20 05:17 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> mutton
+@🎄DumByAWaffle stop it
+
+
+[12-Nov-20 05:17 PM] Carl-bot#1536
+@😭!🌵[BD]RickAstley[🎃☭🤔LDR] <BBB>😭 this is your fault
+
+{Reactions}
+upvote (3) this (2) person_dabbing (2) carlsmile (2) sadcatthumbsup (2) simpwave space (2) 4️⃣ 
+
+[13-Nov-20 10:40 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Separate #👍polls-announcements into #polls and #announcements
+@Kazuma 
+> no
+@Kazuma 
+You answered your own suggestion good job
+
+{Reactions}
+🇦 🅰️ 4️⃣ ❕ ⁉️ ❗ 
+
+[13-Nov-20 10:40 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> separate #🎀showcase🥓advertising into showcase and advertising again
+@Starmute There was a vote a while back so we'd have to do another vote
+
+
+[13-Nov-20 11:05 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ungulag my alt
+@Anthony2be 
+You the one who said account hacked bucko
+
+
+[13-Nov-20 11:28 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> https://www.youtube.com/watch?v=aDQ3nfBbPWM&feature=youtu.be
+@Anthony2be 
+> watch that
+@Anthony2be 
+> thats my suggestion
+@Anthony2be 
+You are abusing your Mod slowmode bypass, you are mis-using a channel, and you're being a butt
+
+{Reactions}
+person_dabbing 
+
+[13-Nov-20 11:45 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I would like to suggest adding a weeb channel
+@techno salami I already did
+
+
+[13-Nov-20 01:37 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Also maybe actual requirements etc. for featuring a server
+@🐑Sheep-kun; SheepCommander☭🎩 
+Well featured servers were removed
+
+
+[13-Nov-20 01:37 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ADD A SPAM CHANNEL PLEASE DADDY IM BEGGING YOU
+@🎄DumByAWaffle 
+maybe a reveal one or smth
+
+
+[13-Nov-20 02:06 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@VeSaucy i saw that
+
+{Reactions}
+😳 (2) 
+
+[13-Nov-20 02:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+oooooooooh a mod deleted not you
+
+
+[13-Nov-20 02:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+good job Kazuma
+
+{Reactions}
+🇹 🇭 🇽 😢 😿 carldepressed carlsad sadcatthumbsup sadcat 
+
+[14-Nov-20 02:14 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> no
+> >:)
+@🎄DumByAWaffle no
+
+
+[14-Nov-20 02:15 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> suggestion: add this bot
+> <https://discord.com/api/oauth2/authorize?client_id=731475354543194213&permissions=383040&scope=bot>
+@QmelZ the Void what is it
+
+
+[14-Nov-20 02:15 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ADD A SPAM CHANNEL PLEASE DADDY IM BEGGING YOU
+@🎄DumByAWaffle eh
+
+{Reactions}
+🇵 🇱 🇪 🇦 🇸 
+
+[14-Nov-20 11:18 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> What if we add a channel where we can share music that we like?
+@techno salami 
+You can always do that in #💬general but I suppose we could get a channel dedicated for it
+
+
+[15-Nov-20 10:56 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> sheep-chan onlyfans 😳
+@VeSaucy **sheep-kun to you**
+
+
+[16-Nov-20 02:44 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> sheep-kun onlyfans 😳
+@VeSaucy perhaps
+
+
+[16-Nov-20 02:55 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> move logs and specials above unused channels, they are unused anyways.
+> 
+> make it like:
+> special channels
+> logs
+> unused archived
+@QmelZ the Void 
+Dunno why I never thought of that but ye good idea
+
+
+[16-Nov-20 10:00 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I deserve color role! #D07C34
+@🎄DumByAWaffle hmmmmmmmm
+
+
+[16-Nov-20 10:01 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "T1 Deserves poop" #D07C34
+
+
+[16-Nov-20 10:01 AM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **T1 Deserves poop** has been created.
+**Color:** #d07c34
+**Mentionable:** False
+**Shown separately:** False
+777956411816149074
+
+
+[16-Nov-20 10:01 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add @🎄DumByAWaffle @deleted-role
+
+
+[16-Nov-20 10:01 AM] Carl-bot#1536
+Added **T1 Deserves poop** to **DeathByAWaffle#5886**.
+
+
+[16-Nov-20 11:52 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Invite WikiBot
+@MMK21Games link?
+
+
+[17-Nov-20 02:43 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> suggestion to give me my color role back (yes i kinda fucked up there)
+@Senarteszek what
+
+
+[17-Nov-20 10:41 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> make a bot that spams gulag hell (or you can’t do that)
+@VeSaucy 
+Can't right now but I want to later
+
+{Reactions}
+🇵 🇴 🇬 
+
+[17-Nov-20 10:52 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I could do it
+@Anthony2be 
+Ye do that, I'll add it. If possible make a command that triggers it
+
+
+[17-Nov-20 10:52 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+even better the bot also spam DMs him the BANNED FROM MICKEY MOUSE CLUB message
+
+
+[17-Nov-20 11:00 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> NSFW chat for more things that are just a step above cursing
+@VeSaucy eh
+
+
+[18-Nov-20 02:40 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> spam channel pleaseeeeeee
+@QmelZ the Void you missed it didn't you
+
+
+[18-Nov-20 02:32 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> spam channel pleaseeeeeee
+@QmelZ the Void eh
+> Suggestion: please bring back "!fuck-everyone-here-in-the-ass"
+@🎄DumByAWaffle eh
+
+
+[18-Nov-20 08:20 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Cursing in swedish?? 😳 😳 👍 💯
+@asdru 
+Sure? Idk
+
+
+[18-Nov-20 08:21 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> BRING BACK "QUOTE" REPLY SUCKS DICK
+@🎄DumByAWaffle
+> its in the whole discord ;-;
+ @𝓡𝓖𝓧𝓨𝓩 
+> uwu
+@VeSaucy
+You think i can do anything? dumb bitch
+
+
+[18-Nov-20 08:21 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+besides it's better other than the fact you can't move across channels
+
+
+[18-Nov-20 08:25 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> øwø
+@VeSaucy 
+> i agree
+@🎄DumByAWaffle 
+well then
+
+
+[18-Nov-20 08:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!warn @VeSaucy Shitposting multiple times in #deleted-channel
+
+{Reactions}
+😔 (2) 😎 
+
+[18-Nov-20 08:26 PM] Carl-bot#1536
+**VeSaucy#4506** has been warned, this is their first warning.
+
+
+[18-Nov-20 08:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!warn @🎄DumByAWaffle Shitposting multiple times in #deleted-channel
+
+{Reactions}
+😔 (2) 😎 
+
+[18-Nov-20 08:26 PM] Carl-bot#1536
+**DeathByAWaffle#5886** has been warned, this is their 5th warning.
+
+
+[19-Nov-20 04:10 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> become cute anime girl
+@VeSaucy 
+try asking in a help channel and not shitposting in #deleted-channel
+
+
+[20-Nov-20 10:19 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> I think you should give me Mod, I am very well respected now gib it to me you son of a bitch or i will cut off ur dick so you cant secks anymore
+@🎄DumByAWaffle probably no-
+> give me and waffle mod so we can keep each other in check yes
+@VeSaucy 90% certain you'll help each other bring chaos to the server
+
+{Reactions}
+😞 😔 person_dabbing 
+
+[20-Nov-20 10:21 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> shitpost or memes channel so i don’t do it in suggestions :UwUcry:
+@VeSaucy **general dumb bitch**
+
+{Reactions}
+this 😩 
+
+[20-Nov-20 10:25 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> something like "question of the day", staff could ask stuff maybe and others can answer
+@deleted-role what would this be for tho
+
+
+[20-Nov-20 10:25 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+QMelz
+
+
+[20-Nov-20 10:27 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> sheep i promise i wont destroy the server you have to believe me
+@🎄DumByAWaffle hmm
+
+
+[20-Nov-20 10:30 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Pin my sonic meme?
+hmmm
+
+
+[20-Nov-20 10:30 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@techno salami perhaps
+
+
+[20-Nov-20 10:31 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Add :comradeWaffle: emoji
+> https://cdn.discordapp.com/attachments/728700064381534230/779132176532373564/DeathByAWaffle_Icon.jpg
+hmmm eh
+
+{Embed}
+https://cdn.discordapp.com/attachments/728700064381534230/779132176532373564/DeathByAWaffle_Icon.jpg
+https://cdn.discordapp.com/attachments/728700064381534230/779132176532373564/DeathByAWaffle_Icon.jpg
+
+
+[20-Nov-20 10:31 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@🎄DumByAWaffle perhap
+
+
+[20-Nov-20 10:44 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> add :ohno: emoji so we can use it and laugh at the people who don't get the joke
+@QmelZ the Void sure
+
+
+[20-Nov-20 10:44 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+do it yourself there you go :ohno:
+
+
+[20-Nov-20 11:21 AM] foof🎄#3527
+i can type here now
+
+{Reactions}
+🥵 (3) 
+
+[20-Nov-20 11:21 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+Yes we know
+
+
+[20-Nov-20 11:21 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+that was announced
+
+
+[20-Nov-20 11:28 AM] QmelZ the Void#0526
+what, am i blind or something
+
+
+[20-Nov-20 11:28 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+most recent
+
+
+[20-Nov-20 11:28 AM] QmelZ the Void#0526
+(yes, i am blind)
+
+
+[20-Nov-20 12:58 PM] QmelZ the Void#0526
+> i want color role 80ff00
+ @Senarteszek ok
+
+
+[20-Nov-20 01:01 PM] QmelZ the Void#0526
+@Senarteszek done
+
+
+[20-Nov-20 02:22 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> I want hot pink
+@Peppa hex code
+
+
+[20-Nov-20 02:22 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Delete the unused VCs
+@Pablo 
+if number 3 on the vote wins sure
+
+
+[23-Nov-20 09:40 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> make a test channel for staff so we can test random shit
+> ~~for example i want to test if the e role works~~
+@QmelZ the Void 
+there #deleted-channel
+
+
+[24-Nov-20 01:05 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> hey how about adding a @be-mc-notify and an @java-mc-notify so pings dont get annoying
+@BIGMANCHEESE
+> BE gross 🤮 🤢
+@VeSaucy 
+Makes sense guess I'll host a vote on if we split it up
+
+
+[24-Nov-20 10:05 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> suggestion: make a channel for spamming some `hmmmine`
+> uhhh hello? @evveryon-
+@ƃıd ɐddǝd ɟo oǝɔ | doɥɔ ƃod 
+no
+
+{Reactions}
+🇱 🇲 🇦 🇴 wtfix not_like_this 🇼 🇭 🇾 
+
+[25-Nov-20 10:06 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Following the deletion of #carlbot-better and #staff-testing-or-smth, I request giving @MMK21Games read perms to all channels (unless there's some super-secret admin-only channel)
+@MMK21Games 
+why tho
+
+{Reactions}
+🇩 (4) 🇴 (4) 🇳 (4) 🇹 (4) 
+
+[25-Nov-20 05:54 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Suggestion: give me mod role
+@🎄DumByAWaffle 
+no
+
+{Reactions}
+🇼 🇭 🇾 space 🇳 🇴 🇹 😢 😭 🇱 🇲 🇦 🅾️ 
+
+[25-Nov-20 07:46 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> suggestion: aDD tHe dAnK mEmEr bOt
+@ƃıd ɐddǝd ɟo oǝɔ | doɥɔ ƃod no
+
+{Reactions}
+🇼 🇭 🇾 space 🇱 (2) 🇲 (2) 🇦 (2) 🇴 (2) 
+
+[26-Nov-20 11:46 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> wait we can't invite ppl
+@MMK21Games yes #📋rules-verify
+
+{Reactions}
+QuestionMark 
+
+[27-Nov-20 12:45 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Gimme my milk role back again
+> 
+> 
+> 🥛 T1 Milk Color 🥛
+> #00ff9f
+@SwiPE ok
+
+
+[27-Nov-20 12:45 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add "🥛 T1 Milk Color 🥛" #00ff9f
+
+
+[27-Nov-20 12:45 AM] Carl-bot#1536
+Member "🥛 T1 Milk Color 🥛" not found
+
+
+[27-Nov-20 12:46 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "🥛 T1 Milk Color 🥛" #00ff9f
+
+
+[27-Nov-20 12:46 AM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **🥛 T1 Milk Color 🥛** has been created.
+**Color:** #00ff9f
+**Mentionable:** False
+**Shown separately:** False
+781803039387680798
+
+
+[27-Nov-20 12:46 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@deleted-role
+
+
+[27-Nov-20 12:46 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role add @SwiPE @deleted-role
+
+
+[27-Nov-20 12:46 AM] Carl-bot#1536
+Added **🥛 T1 Milk Color 🥛** to **SwiPE#7728**.
+
+
+[27-Nov-20 12:54 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Can I have @youtuber?
+> I have 131 subs on yt
+> liorwastaken on YT
+@Lior sure
+
+
+[27-Nov-20 03:49 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> suggestion: do not delete suggestions without answering unless they are something like deathbyawaffle's shit
+@QmelZ the Void isn't that what we do
+
+
+[28-Nov-20 04:49 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> A cursed Channel for cursed images?
+@techno salami #💬general ?
+
+
+[30-Nov-20 02:00 AM] QmelZ the Void#0526
+> give me all the separator roles :))
+@VeSaucy no
+
+
+[30-Nov-20 02:01 AM] QmelZ the Void#0526
+> suggestion: review my suggestion
+@VeSaucy maybe
+> guys stop saying no it hurts my feelings [emojispam]
+no because emoji spam
+> Suggestion:
+> 1. Subscribe to my YouTube ||don't ban||
+> 2. Listen to my album ||don't ban||
+@Lior no, no, no, no
+
+
+[30-Nov-20 02:02 AM] QmelZ the Void#0526
+> No is mean :<
+> Yes is nice @GoatInABoat :))))
+> No is mean :((((((((((
+no, yes, no
+
+
+[30-Nov-20 02:03 AM] QmelZ the Void#0526
+yo @🐑Sheep-kun; SheepCommander☭🎩 do i delete the messages in #deleted-channel after reviewing
+
+
+[30-Nov-20 10:10 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+Sure
+
+
+[30-Nov-20 10:11 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Delete the unused VCs
+@Pablo forgot to tell you now all Archived chnanels are gone
+
+
+[30-Nov-20 10:11 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> make a bot that spams gulag hell (or you can’t do that)
+@VeSaucy this has been done
+
+
+[30-Nov-20 10:11 AM] Anthony2be#1900
+thats old
+
+
+[30-Nov-20 10:12 AM] Anthony2be#1900
+like before those happened
+
+
+[30-Nov-20 10:12 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> invest in poop coin
+@VeSaucy 
+> 
+> where do i buy
+@Pingi 
+Maybe I will and I think you pull it out of VeSaucy's butt
+
+{Reactions}
+😳 (4) 
+
+[30-Nov-20 10:13 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> mindcraf serbver
+@VeSaucy 
+you mean one for Knowledge Base or just a mindcraf serbver
+
+{Reactions}
+🇧 🇴 🇹 🇭 🙂 
+
+[04-Dec-20 03:04 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> We need yro'ue back https://cdn.discordapp.com/attachments/279294297398837249/762071975216283719/video0.mp4
+@🎄DumByAWaffle 
+> 
+> New trigger: when somone says "femboy friday" carl posts this https://cdn.discordapp.com/attachments/727912383833702411/784477508955275304/FEMBOY_FRIDAY.mp4
+@🎄DumByAWaffle done
+
+{Embed}
+https://cdn.discordapp.com/attachments/279294297398837249/762071975216283719/video0.mp4
+
+{Embed}
+https://cdn.discordapp.com/attachments/727912383833702411/784477508955275304/FEMBOY_FRIDAY.mp4
+
+
+[04-Dec-20 03:06 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> a channel in the staff area where we can keep track of how much times somebody has misused a channel/ didnt follow advertising rules
+@Anthony2be warns
+
+
+[04-Dec-20 03:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> #fanfic or #nsfw for @a[team=sexoffender] needs
+@VeSaucy 
+if @🎄DumByAWaffle needs it let him join my fanfic server
+
+
+[04-Dec-20 03:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+Here @🎄DumByAWaffle expires in 30 minutes 1 use https://discord.gg/5p5ybuY
+
+
+[04-Dec-20 03:08 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> make a trigger when someone says:
+> "oopsie woopsie"
+@🎄DumByAWaffle send me a link verson
+
+
+[04-Dec-20 03:09 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> CUM EMOJI
+@🎄DumByAWaffle no nsfw
+
+
+[04-Dec-20 03:09 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> owo bot
+@VeSaucy no
+
+
+[04-Dec-20 03:09 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> #ammunition in JPI channel
+@VeSaucy sure but what for?
+
+
+[04-Dec-20 03:10 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> emoji
+@VeSaucy 
+emoji
+
+
+[04-Dec-20 03:10 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+ok
+
+
+[04-Dec-20 03:11 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Have a competition to see which knowledge bot is better: mine or mmk’s
+@Anthony2be what do we base it on?
+
+
+[04-Dec-20 03:12 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Get rid if those random pipes and maybe un-spoiler the text bit?
+@MMK21Games done
+
+{Reactions}
+iapprove 
+
+[04-Dec-20 03:12 PM] Anthony2be#1900
+idk
+
+
+[04-Dec-20 03:16 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Add comments to the #other-faqs like 
+> ## Comments are not necessary
+> # <Comment>
+> <Command(s)>
+@Zefyro 
+I will keep that in mind while I'm re-making and porting the resources
+
+
+[04-Dec-20 03:17 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> vesaucy role #696969
+@VeSaucy ok
+
+
+[04-Dec-20 03:18 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "T1 Vesaucy" #696969
+
+
+[04-Dec-20 03:18 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **T1 Vesaucy** has been created.
+**Color:** #696969
+**Mentionable:** False
+**Shown separately:** False
+784559284599783434
+
+
+[04-Dec-20 03:18 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@deleted-role
+
+
+[04-Dec-20 03:18 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+lmao it'll look like you're muted
+
+
+[04-Dec-20 03:18 PM] Carl-bot#1536
+https://cdn.discordapp.com/attachments/279294297398837249/762071975216283719/video0.mp4
+
+{Embed}
+https://cdn.discordapp.com/attachments/279294297398837249/762071975216283719/video0.mp4
+
+
+[04-Dec-20 03:18 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+lmao it'll look like yro'ue muted
+
+
+[05-Dec-20 02:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> It's not fixed
+@MMK21Games hold on
+
+
+[07-Dec-20 11:33 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> It's not fixed
+> https://cdn.discordapp.com/attachments/728700064381534230/784733283756933120/unknown.png
+@MMK21Games k
+
+{Embed}
+https://cdn.discordapp.com/attachments/728700064381534230/784733283756933120/unknown.png
+https://cdn.discordapp.com/attachments/728700064381534230/784733283756933120/unknown.png
+
+
+[07-Dec-20 01:01 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> CoolKidCoders
+@VeSaucy no
+> 
+> name it GoatInABoat fan club
+@GoatInABoat no
+
+
+[07-Dec-20 01:02 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Minecraft knowledge base?
+@ShamanDorn probably a last resort
+
+
+[07-Dec-20 01:02 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> FemboyFriday
+@VeSaucy no
+
+
+[07-Dec-20 01:02 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> ~~crafting book~~
+@ShamanDorn 
+Probably not
+
+
+[07-Dec-20 01:02 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Role "T1 notadreamstan" #420420
+@Lior sure
+
+
+[07-Dec-20 01:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+!role create "T1 notadreamstan" #420420
+
+
+[07-Dec-20 01:03 PM] Carl-bot#1536
+
+{Embed}
+Success!
+The role **T1 notadreamstan** has been created.
+**Color:** #420420
+**Mentionable:** False
+**Shown separately:** False
+785612350862000188
+
+
+[07-Dec-20 01:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@deleted-role
+
+
+[07-Dec-20 01:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+k
+
+
+[07-Dec-20 01:03 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@Flopflip @VeSaucy @GoatInABoat Imma just delete the shitposts without replying
+
+
+[07-Dec-20 01:22 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Command Knowledge Base.
+> 
+> (Tho this server is mostly for weebs, you can't deny that)
+@Zefyro 
+Hey the weeb presence is low (go to MCDP for that) but shitposting is still here
+
+
+[07-Dec-20 01:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> what I said in #👍reviews👎
+@GFTK ...
+
+
+[07-Dec-20 01:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+why can't I ping
+
+
+[07-Dec-20 01:27 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+oh hide suggestions
+
+
+[07-Dec-20 01:31 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Make this renaming thing a long-term thing (instead of something that only goes on for the normal vote duration)
+@MMK21Games ah well we'll see
+
+
+[07-Dec-20 01:32 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> what I said in #👍reviews👎
+@GFTK I have removed your hide suggestions role
+
+Anyways I'll add a Hide JPI & a Hide #Weird NSFW Thing
+
+
+[07-Dec-20 01:32 PM] Carl-bot#1536
+https://cdn.discordapp.com/attachments/279294297398837249/762071975216283719/video0.mp4
+
+{Embed}
+https://cdn.discordapp.com/attachments/279294297398837249/762071975216283719/video0.mp4
+
+
+[07-Dec-20 01:33 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+BTW @Zefyro I can deny it, it's not mainly for weebs there's only 1 active weeb here.
+It's mainly shitposters
+
+{Reactions}
+sadcat (2) 
+
+[07-Dec-20 01:34 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> work on the portal project
+@Anthony2be 
+**we don't talk about that**
+
+
+[07-Dec-20 01:34 PM] Anthony2be#1900
+lol
+
+
+[07-Dec-20 01:35 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> please either destroy this reaction or change it to only react to wrong iterations of your \/ @🐑Sheep-kun; SheepCommander☭🎩
+@Kazuma ok ok hold on
+
+{Reactions}
+this 
+
+[07-Dec-20 01:35 PM] Carl-bot#1536
+https://cdn.discordapp.com/attachments/279294297398837249/762071975216283719/video0.mp4
+
+{Embed}
+https://cdn.discordapp.com/attachments/279294297398837249/762071975216283719/video0.mp4
+
+{Reactions}
+👀 
+
+[07-Dec-20 03:07 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+wha
+
+
+[10-Dec-20 11:07 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> We can become the JPI Hate Club
+@Flopflip 
+> No we need to keep our cover
+@asdru 
+correct
+
+
+[10-Dec-20 11:08 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Give role "The Knowledgable" same color as other knowledgavlessba
+@asdru but there's no point then is there
+
+
+[12-Dec-20 04:48 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Command Knowledge Base.
+> 
+> (Tho this server is mostly for weebs, you can't deny that)
+@Zefyro 
+Every time I see this I have to deny it, dafuq were you on this is Knowledge Base not Minecraft Datapacks Discord
+
+
+[12-Dec-20 04:50 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+This is the shitposting server with elements of helpfulness not the overflowing weeb server with helpful conventions
+
+
+[12-Dec-20 04:51 PM] Kazuma#1914
+I am a weeb
+
+
+[12-Dec-20 04:51 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+Yes you are but this server is NOT mostly for weebs and weeb presence is pretty low
+
+
+[12-Dec-20 04:51 PM] Kazuma#1914
+@QmelZ the Void is a weeb
+
+
+[12-Dec-20 04:53 PM] QmelZ the Void#0526
+h
+
+
+[12-Dec-20 04:53 PM] QmelZ the Void#0526
+how tf am i a weeb
+
+
+[12-Dec-20 04:53 PM] Kazuma#1914
+you are
+
+
+[12-Dec-20 04:53 PM] QmelZ the Void#0526
+no u
+
+
+[12-Dec-20 04:54 PM] Kazuma#1914
+yes, but u too
+
+
+[13-Dec-20 12:41 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Or we could continue being knowledge base
+@Anthony2be no
+
+
+[13-Dec-20 07:44 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Pee
+@King! Pee
+
+{Reactions}
+😂 
+
+[13-Dec-20 08:05 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> change the john pualt inso category to controversial servers then make subcategorys (using like vcs) for each server (also add bl as one)
+@Anthony2be VCs always go at the bottom
+
+
+[13-Dec-20 08:07 PM] Anthony2be#1900
+frik
+
+
+[13-Dec-20 08:07 PM] Anthony2be#1900
+well like another way maybe like text channel
+
+
+[13-Dec-20 08:09 PM] Anthony2be#1900
+but you get the idea
+
+
+[13-Dec-20 09:12 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Hi
+@Lancer rap try #💬general
+
+
+[13-Dec-20 10:44 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Command Knowledge Base.
+> 
+> (Tho this server is mostly for weebs, you can't deny that)
+Do I deny this again?
+
+{Reactions}
+no space 🇭 🇪 👍 
+
+[14-Dec-20 07:02 PM] Kazuma#1914
+> VeSaucy #ff9202
+> please
+@VeSaucy done.
+
+{Reactions}
+😳 
+
+[14-Dec-20 07:02 PM] Kazuma#1914
+it's mod color though, I'll mention you just in case @🐑Sheep-kun; SheepCommander☭🎩
+
+{Reactions}
+🇳 (2) 🇴 (2) 🅾️ (2) ⭕ (2) 👍 (2) OwOsweat (2) gun_pointing (2) 
+
+[14-Dec-20 07:36 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@Kazuma I said it's up to the mod+++ to judge if it's too close to an existing role, and you already think it **is** an existing role
+
+
+[14-Dec-20 07:37 PM] Kazuma#1914
+ok, I'll change it back then, @VeSaucy sorry
+
+
+[14-Dec-20 07:37 PM] Kazuma#1914
+unless you pick another color
+
+
+[18-Dec-20 08:53 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Post the Femboy Friday thing in #💬general instead
+@MMK21Games yes
+
+
+[18-Dec-20 08:54 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> get rid of slowmode
+@techno salami @Kazuma
+The votes have spoken
+
+
+[18-Dec-20 08:54 AM] Anthony2be#1900
+what about mine?
+
+
+[18-Dec-20 08:55 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> destroy slowmode
+@Kazuma it's 1 second mother fucker
+
+
+[18-Dec-20 08:55 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+what about yours?
+
+
+[18-Dec-20 08:55 AM] Anthony2be#1900
+are you gonna review them?
+
+
+[18-Dec-20 08:55 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> R6 chat
+@Anthony2be Probably not not enough people who play it anyways
+
+{Reactions}
+🇮 space 🇩 🇴 
+
+[18-Dec-20 08:55 AM] Anthony2be#1900
+😦
+
+
+[18-Dec-20 08:55 AM] Kazuma#1914
+I don't even know what it is
+
+
+[18-Dec-20 08:58 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Make a role that is immune to slowmode and manually give it to active members. But to do that, you'd need to destroy slowmode change the slowmode type. Discord built-in one doesn't have that feature @🐑Sheep-kun; SheepCommander☭🎩
+@Kazuma so you mean to tell me you'd rather have your messages deleted by a bot? If you ask me that is so much more fucking annoying jesus christ
+
+{Reactions}
+👆 
+
+[18-Dec-20 08:58 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+Like you're sending messages and then they suddenly get deleted
+
+
+[18-Dec-20 08:59 AM] Kazuma#1914
+I do
+
+
+[18-Dec-20 08:59 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+because the bot has slowmode that's not built in slowmode
+
+
+[18-Dec-20 08:59 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+fucking maniac
+
+
+[18-Dec-20 08:59 AM] Kazuma#1914
+give it to active members
+
+
+[18-Dec-20 08:59 AM] Kazuma#1914
+or make it automatically be given to members after they reached a certain level
+
+
+[18-Dec-20 02:54 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> knowledge base youtube channel where people can volunteer to make videos which are uploaded and explain certain concepts
+@VeSaucy sure
+
+
+[18-Dec-20 03:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Only people above level 15 should be able to vote in #👍polls-announcements
+@VeSaucy and how many people do you think are above lvl 15
+
+
+[18-Dec-20 03:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+14 people apparently
+
+
+[18-Dec-20 03:27 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@foof🎄 oof you're not lvl 15, almost there
+
+
+[18-Dec-20 03:27 PM] Anthony2be#1900
+what bout me?
+
+
+[18-Dec-20 03:27 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Make a role that is immune to slowmode and manually give it to active members. But to do that, you'd need to destroy slowmode change the slowmode type. Discord built-in one doesn't have that feature @🐑Sheep-kun; SheepCommander☭🎩
+@Kazuma so in other words give mod to every person who's active
+
+
+[18-Dec-20 03:28 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Pemove piss mode
+> Ban 🐑Sheep-kun; SheepCommander☭🎩#1511  from the server
+@asdru nah
+
+{Reactions}
+🤮 
+
+[18-Dec-20 03:28 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> so that way we don't get someone who never speaks voting on the dumbest rule, even 10 would be better
+@VeSaucy ok but how do we automate it, wait is DumB one of the ones asking for this?
+
+
+[18-Dec-20 03:29 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@stfu sheepcommander hey you don't like Slowmode right? And you want it so only people above lvl 10 can vote?
+
+
+[18-Dec-20 03:29 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+Well guess what @stfu sheepcommander FUCK YOU! WE'RE GOING TO HAVE TO REPLACE MEE6 FOR THAT
+
+
+[18-Dec-20 03:29 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+GET FUCKED BY YOURSELF NERD @stfu sheepcommander IMMA GO REPLACE MEE6 EFFECTIVE IMMEDIATELY
+
+
+[18-Dec-20 03:44 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> give waffle mod, i swear he would be a good mod trust me pls give mod he needs it please mod he would be a good one please give him mod he totally wont plunge the server into chaos pleasejust give him a chance to be a great mod better than the stupid bitch karzuma please i want he wants slowmode it can be ur christmas present plz
+@stfu sheepcommander do you mean waffle's christmas present? Well we'll have to wait a few days then
+
+
+[18-Dec-20 03:45 PM] Anthony2be#1900
+lol
+
+
+[18-Dec-20 03:46 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> so that way we don't get someone who never speaks voting on the dumbest rule, even 10 would be better
+@VeSaucy well as you know it's a vote now so Imma delete this
+
+
+[18-Dec-20 03:47 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> can my cwistmaws pwesent be admin
+@Anthony2be might
+
+
+[18-Dec-20 03:47 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> make knowledge base cover other games
+> for example R6 or mindustry
+@Anthony2be well not R6 but enough people play Mindustry that we might have a channel for it, but I don't think we'll dedicate creating tutorials and resources for it
+
+
+[18-Dec-20 03:47 PM] Anthony2be#1900
+also ITS THE START OF WINTER BREAK FUCK YEA(for me idk about anyone else)
+
+
+[18-Dec-20 03:50 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> ARE YOU WAFFLE
+@VeSaucy he's not, send him the ammunition btw he didn't spam enough to get server punishment but we can personally punish him
+
+
+[18-Dec-20 04:05 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> add mindustry knowledge too
+@QmelZ the Void maybe, but that will require more figuring things out
+
+
+[18-Dec-20 04:08 PM] QmelZ the Void#0526
+> mindustry chat
+@Prime ok
+
+
+[18-Dec-20 04:08 PM] QmelZ the Void#0526
+~~lemme get someone to do that~~
+
+
+[18-Dec-20 04:08 PM] Kazuma#1914
+> can we disable slowmode?
+@Kazuma yes, please
+
+
+[18-Dec-20 04:11 PM] QmelZ the Void#0526
+@🐑Sheep-kun; SheepCommander☭🎩 ***make mindustry channel now***
+
+{Reactions}
+🇨 🇷 🇮 🇳 🇬 🇪 🤮 
+
+[18-Dec-20 04:11 PM] QmelZ the Void#0526
+how to get sheep to notice
+
+
+[18-Dec-20 04:11 PM] QmelZ the Void#0526
+nvm he went off
+
+
+[18-Dec-20 04:11 PM] Kazuma#1914
+> give asdru mod blah blah blah
+@asdru I was going to support until you said I'm bad, now I'm gonna destroy your whole career
+
+
+[18-Dec-20 04:11 PM] QmelZ the Void#0526
+@UgandanKnuckles you can make channels help please
+
+
+[18-Dec-20 04:14 PM] QmelZ the Void#0526
+> Here’s a suggestion, if you’re going to apply for mod, give reasons OTHER than “I would be good, and make the server a better place”. What makes you different? Why do we need more mods? THOSE￼ are the questions you should be answering.
+the point is, we don't really have mod applications
+
+
+[18-Dec-20 04:14 PM] QmelZ the Void#0526
+sheep just chooses mods
+
+
+[18-Dec-20 04:14 PM] QmelZ the Void#0526
+@techno salami
+
+
+[18-Dec-20 04:25 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> can we disable slowmode?
+@Kazuma I dunno **caaaaaan you**
+
+
+[18-Dec-20 04:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> add mindustry knowledge too
+@QmelZ the Void well then at the root of the github we'd have to split it into `minecraft` and `mindustry` and then in those we'd have `1.16.4` and for mindustry `v6`
+
+{Reactions}
+🇨 🇷 🇮 🇳 🇬 🇪 
+
+[18-Dec-20 04:26 PM] QmelZ the Void#0526
+~~ok just add mindustry channel~~
+
+{Reactions}
+🇨 🇷 🇮 4️⃣ (2) 🇳 🇹 🇬 🇪 
+
+[18-Dec-20 04:26 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+I said I was going to play the cock, then I played the cock for 20 minutes
+
+
+[18-Dec-20 04:26 PM] QmelZ the Void#0526
+oh
+
+
+[18-Dec-20 04:26 PM] QmelZ the Void#0526
+ok
+
+
+[18-Dec-20 04:27 PM] QmelZ the Void#0526
+h
+
+
+[18-Dec-20 04:29 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> Make the yro'ue just react to wrong forms of your or you're (It's quite annoying)
+@MMK21Games why did this only get starred now? It's already been deleted and UG's kinda sad about it
+
+{Reactions}
+QuestionMark 
+
+[18-Dec-20 04:30 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> 
+> replace UgandanKnuckles for Waffle as he is more active than him :))))))
+@stfu sheepcommander well then
+
+
+[18-Dec-20 04:31 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@UgandanKnuckles you've been issued a challenge by a DumB waffle
+
+
+[18-Dec-20 04:31 PM] UgandanKnuckles#3891
+WAT
+
+
+[18-Dec-20 04:31 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> give waffle mod, i swear he would be a good mod trust me pls give mod he needs it please mod he would be a good one please give him mod he totally wont plunge the server into chaos pleasejust give him a chance to be a great mod better than the stupid bitch karzuma please i want he wants slowmode it can be ur christmas present plz
+@stfu sheepcommander no
+> give asdru mod, i swear he would be a good mod trust me pls give mod he needs it please mod he would be a good one please give him mod he totally wont plunge the server into chaos pleasejust give him a chance to be a great ? mod better than the stupid bitch karzuma please i want he wants slowmode it can be ur christmas present plz
+@asdru no
+
+{Reactions}
+sadcat 🇵 🇱 🇿 🇫 
+
+[18-Dec-20 04:32 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Here’s a suggestion, if you’re going to apply for mod, give reasons OTHER than “I would be good, and make the server a better place”. What makes you different? Why do we need more mods? THOSE￼ are the questions you should be answering.
+@techno salami good idea, too bad they don't know how to do that
+
+{Reactions}
+🇵 (2) 🇪 (2) 🇳 (2) 🇮 (2) 🇸 (2) 
+
+[18-Dec-20 04:33 PM] UgandanKnuckles#3891
+What is the challenge?
+
+
+[18-Dec-20 04:33 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@UgandanKnuckles well he just told me to replace you because he's more active than you ¯\_(ツ)_/¯
+
+
+[18-Dec-20 04:34 PM] UgandanKnuckles#3891
+That doesnt matter, when i will most likely respond to pings more time than him
+
+
+[18-Dec-20 04:34 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+true
+
+{Reactions}
+🇫 🇦 🇱 🇸 🇪 
+
+[18-Dec-20 04:35 PM] Anthony2be#1900
+WHY ARE THERE SO MANY REVIEWS ON SUGGESTIONS
+
+{Reactions}
+🇵 🇴 🅾️ 🅿️ 
+
+[18-Dec-20 04:36 PM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+ikr
+
+{Reactions}
+🇵 🇪 🇳 🇮 🇸 
+
+[18-Dec-20 04:36 PM] Anthony2be#1900
+> 0/10 poop server
+@stfu sheepcommander stfu alt
+
+{Reactions}
+🇳 (2) 🇴 space 4️⃣ 🇵 🇪 
+
+[19-Dec-20 02:05 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+> Remove the 1 second slowmode - it's quite annoying
+@MMK21Games you can bypass slowmode anyways and not really
+> then post your thoughts in larger segments instead of just posting one or two words at a time
+@Nope if you ask me *exactly*, but ah well
+
+
+[19-Dec-20 02:06 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+I'll be honest since it's technichally closer to 2 seconds, 30wpm isn't that fast but that's *word* not *sentence*
+
+
+[21-Dec-20 12:06 AM] 🐑Sheep-kun; SheepCommander☭🎩#1511
+@MMK21Games tell me when you've exported this channel then delete it (you have perms)
+
+
+[21-Dec-20 09:37 AM] Anthony2be#1900
+i can do it too
+
+
+[21-Dec-20 09:42 AM] Anthony2be#1900
+i have to remove the unicode stuff from it to zip it tho
+
+
+[21-Dec-20 09:42 AM] Anthony2be#1900
+the names
+
+
+[21-Dec-20 09:46 AM] Anthony2be#1900
+oh im stupid
+
+
+[21-Dec-20 09:46 AM] Anthony2be#1900
+it doesnt work without the unicode
+
+
+==============================================================
+Exported 711 message(s)
+==============================================================
