@@ -1,7 +1,0 @@
----
-sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
----
-
-e
