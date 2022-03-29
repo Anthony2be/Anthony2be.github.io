@@ -33,7 +33,7 @@
 /* Focused link */
 .sidebar a:focus-visible, .sidebar a:focus{
     outline: 0px;
-    background-color: #59eafd;
+    background-color: #5985fd;
     color: #dcddde;
 }
 
@@ -45,7 +45,7 @@
 
 /* Hovered link */
 .sidebar a:hover:not(.active) {
-    background-color: #59c1fd;
+    background-color: #597ffd;
     color: #000;
 }
 
