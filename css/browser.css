@@ -36,7 +36,6 @@ body {
     }
     .sidebar:hover{
         scrollbar-color: #5972fd transparent;
-        color: #ffffff;
     }
 
     /* Sidebar links */
