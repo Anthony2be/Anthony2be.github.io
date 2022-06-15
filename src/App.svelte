@@ -3,12 +3,14 @@
     import Icon from "./lib/Icon.svelte"; 
     import Fa from 'svelte-fa/src/fa.svelte'
     import { faLightbulb } from '@fortawesome/free-solid-svg-icons/index.es'
+
+    const username = "Anthony2be";
 </script>
 
 <main>
     <Fa icon={faLightbulb}/>
-    <Icon username="Anthony2be"/>
-    <Friends username="Anthony2be"/>
+    <Icon {username}/>
+    <Friends {username}/>
 </main>
 
 <style>
